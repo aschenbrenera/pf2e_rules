@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21f9d3bf9ebe8976",
+        "id": "6c0c3bc3d7ed56ee",
         "type": "tabs",
         "children": [
           {
-            "id": "355b63f10658ce12",
+            "id": "b841d35bc95719fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Abilities/Sensory/Darkvision.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cfb1158551523111",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "491e2f5303cb0fbe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Darkvision"
             }
           }
         ]
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d31e3af40a664ccd",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Abilities/Sensory/Darkvision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Darkvision"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Abilities/Sensory/Darkvision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Darkvision"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Abilities/Sensory/Darkvision.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Darkvision"
             }
           }
         ]
@@ -184,8 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "355b63f10658ce12",
+  "active": "b841d35bc95719fe",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Abilities/Sensory/Low-light vision.md",
+    "Abilities/Sensory/Darkvision.md",
+    "2025-04-10.md",
+    "Untitled.canvas",
+    "Environment/Sensory/Dim light.md",
+    "Environment/Sensory/Darkness.md",
+    "Conditions/Dazzled.md",
+    "Conditions/Concealed.md",
+    "Abilities/Sensory/Precise sense.md",
+    "Abilities/Sensory",
+    "Abilities",
+    "Environment",
+    "Environment/Sensory",
+    "Welcome.md",
+    "Conditions"
   ]
 }
