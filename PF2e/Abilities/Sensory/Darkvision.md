@@ -2,7 +2,7 @@
 aliases:
   - Greater Darkvision
 ---
-Tags: #ability #sensory #lighting 
+Tags: #ability #sensory #lighting #special_sense
 
 ## Mechanical Rules
 

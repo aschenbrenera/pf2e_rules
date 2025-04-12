@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b841d35bc95719fe",
+            "id": "e31567c0a6865a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abilities/Sensory/Darkvision.md",
-                "mode": "preview",
-                "source": true
+                "file": "Skills/Athletics.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Darkvision"
+              "title": "Athletics"
+            }
+          },
+          {
+            "id": "2feb6bbd42f989e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Athletics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Athletics"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abilities/Sensory/Darkvision.md",
+                "file": "Skills/Athletics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Darkvision"
+              "title": "Backlinks for Athletics"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abilities/Sensory/Darkvision.md",
+                "file": "Skills/Athletics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Darkvision"
+              "title": "Outgoing links from Athletics"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abilities/Sensory/Darkvision.md",
+                "file": "Skills/Athletics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Darkvision"
+              "title": "Outline of Athletics"
             }
           }
         ]
@@ -168,22 +182,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b841d35bc95719fe",
+  "active": "e31567c0a6865a61",
   "lastOpenFiles": [
+    "Actions & Activities/Movement/Swim.md",
+    "Skills/Athletics.md",
+    "Skills/Deception.md",
+    "Skills/Stealth.md",
+    "Actions & Activities/Movement/Climb.md",
+    "Environment/Hazard/Suffocating.md",
+    "Actions & Activities/Movement/Burrow.md",
+    "Actions & Activities/Movement/Fly.md",
+    "Actions & Activities/Movement/Step.md",
+    "Environment/Hazard/Falling.md",
+    "Environment/Movement/Difficult terrain.md",
+    "Actions & Activities/General/Take Cover.md",
+    "Abilities/Sensory/Tremorsense.md",
+    "Abilities/Sensory/Scent.md",
     "Abilities/Sensory/Low-light vision.md",
+    "Abilities/Sensory/Echolocation.md",
     "Abilities/Sensory/Darkvision.md",
-    "2025-04-10.md",
-    "Untitled.canvas",
-    "Environment/Sensory/Dim light.md",
-    "Environment/Sensory/Darkness.md",
-    "Conditions/Dazzled.md",
-    "Conditions/Concealed.md",
-    "Abilities/Sensory/Precise sense.md",
-    "Abilities/Sensory",
-    "Abilities",
-    "Environment",
-    "Environment/Sensory",
-    "Welcome.md",
-    "Conditions"
+    "Abilities/Corporal/Incorporeal.md",
+    "Actions & Activities/Reactions/Grab an Edge.md",
+    "Actions & Activities/Reactions/Arrest a Fall.md",
+    "Traits",
+    "Conditions/Cover/Standard Cover.md",
+    "Environment/General/Cover.md",
+    "Actions & Activities/Sensory/Avoid Notice.md",
+    "Conditions/Cover/Greater Cover.md",
+    "Conditions/Cover/Lesser Cover.md",
+    "Conditions/Sensory/Concealed.md",
+    "Conditions/Cover",
+    "Actions & Activities/General",
+    "Environment/General",
+    "Actions & Activities/Reactions",
+    "Character Creation/NPC Ally",
+    "Character Creation",
+    "Environment/Hazard",
+    "Conditions/Capability",
+    "Actions & Activities/Movement",
+    "Untitled.canvas"
   ]
 }

@@ -1,22 +1,65 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#condition  ",
+      "color": {
+        "a": 1,
+        "rgb": 14783584
+      }
+    },
+    {
+      "query": "tag:#ability  ",
+      "color": {
+        "a": 1,
+        "rgb": 5424352
+      }
+    },
+    {
+      "query": "tag:#action  ",
+      "color": {
+        "a": 1,
+        "rgb": 9244945
+      }
+    },
+    {
+      "query": "tag:#activity  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#skill  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "tag:#environment  ",
+      "color": {
+        "a": 1,
+        "rgb": 28674
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
+  "nodeSizeMultiplier": 1.19560139973958,
+  "lineSizeMultiplier": 1.497265625,
+  "collapse-forces": false,
+  "centerStrength": 0.203898111979167,
+  "repelStrength": 7.99886067708333,
+  "linkStrength": 0.946207682291667,
+  "linkDistance": 100,
+  "scale": 0.6570925523622412,
   "close": true
 }
