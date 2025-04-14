@@ -1,6 +1,6 @@
 Tags: #condition #cover
 
-Greater form of [[Cover]]
-
+**Description:** Lesser form of [[Cover]]
 ## Mechanical Rules
+
 - +1 to AC

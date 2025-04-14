@@ -1,7 +1,6 @@
 Tags: #ability #sensory #special_sense
 
-Echolocation involves sensing creatures or objects by sound. This could mean its quarry is [[Concealed]] in a noisy chamber, [[Hidden]] in a great enough uproar, or [[Invisible]] under a silence spell.  
-Presented in stat blocks as: echolocation (precise) x feet
+**Description**: Echolocation involves sensing creatures or objects by sound. This could mean its quarry is Concealed in a noisy chamber, Hidden in a great enough uproar, or invisible under a silence spell. Presented in stat blocks as 'echolocation (precise) x feet'.
 
 ## Mechanical Rules
 

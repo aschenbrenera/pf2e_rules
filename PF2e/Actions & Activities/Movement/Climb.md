@@ -17,6 +17,7 @@ Tags: #action #movement
 	- **Success:** You move along the incline.  
 	- **Critical Failure:** You fall. If you began the climb on stable ground, you fall and land [[Prone]].
 - You're [[Off-Guard]] while climbing unless you have a climb Speed.
+	- You take a –2 circumstance penalty to AC.
 - If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet. 
 - The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. 
 

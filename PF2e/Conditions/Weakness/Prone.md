@@ -1,6 +1,6 @@
 Tags: #condition #weaknesss
 
- You're lying on the ground.
+ **Description:** You're lying on the ground.
 ## Mechanical Rules
 
 - You take a –2 circumstance penalty to attack rolls  

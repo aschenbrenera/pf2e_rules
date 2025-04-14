@@ -1,6 +1,6 @@
 Tags: #environment #sensory #lighting
 
-Areas in shadow or lit by weak light sources are in dim light. 
+**Description:** Areas in shadow or lit by weak light sources are in dim light. 
 
 ## Mechanical Rules
 

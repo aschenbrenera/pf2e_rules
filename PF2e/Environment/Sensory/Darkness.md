@@ -1,6 +1,6 @@
 Tags: #environment #sensory #lighting
 
-An area without light.
+**Description:** An area without light.
 
 ## Mechanical Rules
 

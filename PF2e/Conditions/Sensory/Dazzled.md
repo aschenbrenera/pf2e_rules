@@ -1,6 +1,6 @@
 Tags: #condition #sensory
 
-Your eyes are overstimulated or your vision is swimming.
+**Description:** Your eyes are overstimulated or your vision is swimming.
 
 ## Mechanical Rules
 
@@ -11,4 +11,4 @@ Your eyes are overstimulated or your vision is swimming.
 
 ## Inheritance Sources
 
--  After being in darkness, sudden exposure to bright light might make you Dazzled for a short time, as determined by the GM.
+-  After being in [[Darkness]], sudden exposure to bright light might make you Dazzled for a short time, as determined by the GM.

@@ -1,1 +1,26 @@
-Tags: #action #sensory #stealth 
+Tags: #action #sensory #stealth #perception_check 
+
+**Actions:** [1] ⬥
+**Traits:** `MENTAL`
+**Skill:** [[Deception]]
+**Description:** With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. 
+## Mechanical Rules
+
+- If you use a gesture or trick, this action gains the `manipulate` trait. If you use distracting words, it gains the `auditory` and `linguistic` traits.  
+- Attempt a single [[Deception]] check and compare it to the Perception DCs of the creatures whose attention you're trying to divert.
+	- Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
+	- **Success:** You become [[Hidden]] to each creature whose Perception DC is less than or equal to your result.
+	- **Failure:** You don't divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them.
+
+
+
+
+
+#TODO 
+The hidden condition allows you to [Sneak](https://2e.aonprd.com/Actions.aspx?ID=63) away) This lasts until the end of your turn or until you do anything except Step or use the [Stealth](https://2e.aonprd.com/Skills.aspx?ID=15) skill to [Hide](https://2e.aonprd.com/Actions.aspx?ID=62) or Sneak. If you Strike a creature, the creature remains [off-guard](https://2e.aonprd.com/Conditions.aspx?ID=58) against that attack, and you then become [observed](https://2e.aonprd.com/Conditions.aspx?ID=27). If you do anything else, you become observed just before you act unless the GM determines otherwise.  
+
+Hide Effects
+- Someone you're hidden from must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails to affect you.  
+	- Area effects aren't subject to this flat check. 
+- Someone you're hidden from is [[Off-Guard]] to you.  
+	- They take a –2 circumstance penalty to AC to you.

@@ -17,6 +17,7 @@ Tags: #action #movement
 - If your land Speed is 40 feet or higher, increase the maximum possible distance by 5 feet for every 20 feet of Speed above 20 feet.  
 - If you end your turn in water and haven't succeeded at a Swim action that turn, you sink 10 feet or get moved by the current, as determined by the GM. This doesn't apply if your last action on your turn was to enter the water.  
 - The GM determines the DC based on the turbulence or danger of the water; in most instances of calm water, you get an automatic critical success.
+- You can't be knocked prone when [[Swim|Swimming]].
 
 ### Sample Swim Tasks
 

@@ -1,6 +1,6 @@
 Tags: #condition #sensory #perception_check
 
-You can't see.
+**Description:** You can't see.
 
 ## Mechanical Rules
 

@@ -3,7 +3,7 @@ aliases:
   - Observed
   - Unnoticed
 ---
-Tags: #sensory #stealth 
+Tags: #core #sensory #stealth 
 
 Three conditions measure the degree to which you can sense a creature or object: Observed, [[Hidden]], and [[Undetected]]. However, the [[Concealed]] and [[Invisible]] conditions can partially mask a creature, and the Unnoticed condition indicates you have no idea a creature is around.  
   

@@ -1,5 +1,7 @@
 Tags: #condition #sensory #stealth 
 
+**Description:** You are difficult to see.
+
 ## Mechanical Rules
 
 - Someone that you're concealed from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect.  

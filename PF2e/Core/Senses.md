@@ -6,7 +6,7 @@ aliases:
   - Imprecise Sense
   - Vague Sense
 ---
-Tags:  #sensory #stealth
+Tags:  #core #sensory #stealth
 
 The ways a creature can use Perception depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of [[Detection]] a target can be in: [[Detection|Observed]], [[Hidden]], or [[Undetected]]. Vision, hearing, and scent are three prominent senses, but each has a different degree of acuity. When one creature might detect another, the GM almost always uses the most precise sense available.  
 

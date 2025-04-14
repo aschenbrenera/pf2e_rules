@@ -1,6 +1,6 @@
 Tags: #condition #stealth #sensory
 
-While you're hidden from someone, that creature knows the space you're in but can't tell precisely where you are. 
+**Description:** While you're hidden from someone, that creature knows the space you're in but can't tell precisely where you are. 
 
 ## Mechanical Rules
 
