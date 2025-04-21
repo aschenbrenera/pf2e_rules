@@ -7,7 +7,7 @@ Tags: #condition #stealth #sensory
 - Someone you're hidden from must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails to affect you.  
 	- Area effects aren't subject to this flat check. 
 - Someone you're hidden from is [[Off-Guard]] to you.  
-	- They take a –2 circumstance penalty to AC to you.
+	- They take a –2 circumstance penalty to AC specific to you.
 
 ## Gameplay Interactions
 

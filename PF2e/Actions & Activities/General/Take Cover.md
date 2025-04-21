@@ -7,9 +7,7 @@ Tags: #action
 ## Mechanical Rules
 
 - If you would have [[Standard Cover]], you instead gain [[Greater Cover]]
-	- +4 to AC.
-	- +4 to Reflex Saves and DCs.
-	- +4 to [[Stealth]] checks to [[Hide]], [[Sneak]], or otherwise avoid detection.
+	- +4 circumstance bonus to AC, Reflex Saves and DCs, and [[Stealth]] checks to [[Hide]], [[Sneak]], or otherwise avoid detection.
 	- This conditions allows you to attempt the Hide action.
 - Otherwise, you gain the benefits of Standard Cover (+2 circumstance bonus instead of +4).
 - This lasts until you move from your current space, use an action with the `Attack` trait, become [[Unconscious]], or end this effect as a free action.

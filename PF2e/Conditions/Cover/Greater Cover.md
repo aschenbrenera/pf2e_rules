@@ -4,7 +4,5 @@ Tags: #condition #cover #stealth
 
 ## Mechanical Rules
 
-- +4 to AC
-- +4 to Reflex Saves and DCs
-- +4 to [[Stealth]] checks to [[Hide]], [[Sneak]], or otherwise avoid detection.
+- You have a +4 circumstance bonus to AC, Reflex Saves and DCs, and [[Stealth]] checks to [[Hide]], [[Sneak]], or otherwise avoid detection.
 - This conditions allows you to attempt the [[Hide]] action.

@@ -2,7 +2,7 @@
 aliases:
   - Seeking
 ---
-Tags: #action #sensory #stealth #perception_check 
+Tags: #action #sensory #stealth 
 
 **Actions:** [1] ⬥
 **Traits:** `CONCENTRATE` `SECRET`

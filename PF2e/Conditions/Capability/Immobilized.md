@@ -10,3 +10,6 @@ Tags: #condition #capability
 
 - [[Grabbed]]
 - [[Restrained]]
+
+## Gameplay Interactions
+- To end the condition, you may be able to attempt to [[Escape]] or [[Force Open]] your bonds.  

@@ -1,7 +1,7 @@
 Tags: #action #reaction
 
 **Actions:** [reaction] ⤾
-Traits:** `MANIPULATE`
+**Traits:** `MANIPULATE`
 **Trigger:** You fall from or past an edge or handhold.
 **Requirements:** Your hands are not tied behind your back or otherwise restrained.
 **Description:** When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. 

@@ -1,6 +1,7 @@
 Tags: #condition #cover
 
 **Description:** Lesser form of [[Cover]]
+
 ## Mechanical Rules
 
-- +1 to AC
+- You have a +1 circumstance bonus to AC.

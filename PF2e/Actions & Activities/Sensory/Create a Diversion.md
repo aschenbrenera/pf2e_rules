@@ -1,4 +1,4 @@
-Tags: #action #sensory #stealth #perception_check 
+Tags: #action #sensory #stealth
 
 **Actions:** [1] ⬥
 **Traits:** `MENTAL`
@@ -11,9 +11,6 @@ Tags: #action #sensory #stealth #perception_check
 	- Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
 	- **Success:** You become [[Hidden]] to each creature whose Perception DC is less than or equal to your result.
 	- **Failure:** You don't divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them.
-
-
-
 
 
 #TODO 

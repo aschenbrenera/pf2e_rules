@@ -1,4 +1,4 @@
-Tags: #action #perception_check 
+Tags: #action
 
 **Actions:** [1] ⬥
 **Traits:** `MANIPULATE` `SECRET`
