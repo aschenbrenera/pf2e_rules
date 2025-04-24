@@ -12,4 +12,4 @@ Tags: #ability #sensory #special_sense
 
 ## Creation Interaction
 
-- A [[Pet]] or [[Familiar]] may receive the 'Pet Feat': scent (imprecise) 30 feet
+- A Pet or Familiar may receive the 'Pet Feat': scent (imprecise) 30 feet

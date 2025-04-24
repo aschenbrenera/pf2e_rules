@@ -1,6 +1,7 @@
 Tags: #condition #weakness
 
 **Description:** You are carrying more weight than you can manage. 
+
 ## Mechanical Rules
 
 - You take a 10-foot penalty to all your Speeds

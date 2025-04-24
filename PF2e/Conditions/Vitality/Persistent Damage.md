@@ -1,3 +1,7 @@
+---
+aliases:
+  - Assisted Recovery
+---
 Tags: #condition #vitality 
 
  **Description:** You are taking damage from an ongoing effect, such as from being lit on fire. This appears as “X persistent (type) damage,” where “X” is the amount of damage dealt and “(type)” is the damage type. Instead of taking persistent damage immediately, you take it at the end of each of your turns.
@@ -17,7 +21,7 @@ Tags: #condition #vitality
 	- If an effect deals initial damage in addition to persistent damage, apply immunities, resistances, and weaknesses separately to the initial damage and to the persistent damage. 
 - You can be simultaneously affected by multiple persistent damage conditions so long as they have different damage types. If you would gain more than one persistent damage condition with the same damage type, the higher amount of damage overrides the lower amount.
 	- If it's unclear which damage would be higher, the GM decides which source of damage would better fit the scene. 
-- You can take steps to help yourself recover from persistent damage, or an ally can help you, allowing you to attempt an additional flat check before the end of your turn.
+- **Assisted Recovery:** You can take steps to help yourself recover from persistent damage, or an ally can help you, allowing you to attempt an additional flat check before the end of your turn.
 	- This is usually an activity requiring 2 actions, and it must be something that would reasonably improve your chances (as determined by the GM). This allows you to attempt an extra flat check immediately, but only once per round.  
 
   

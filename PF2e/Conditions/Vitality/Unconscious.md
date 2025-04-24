@@ -1,6 +1,7 @@
 Tags: #condition #vitality 
 
  **Description:** You're sleeping or have been knocked out. 
+
 ## Mechanical Rules
 
 - You can't take actions.

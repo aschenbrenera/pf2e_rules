@@ -11,7 +11,7 @@ With the exception of invisible, all of these conditions are relative to the vie
   
 Typically, the GM tracks how well creatures detect each other, since neither party has perfect information. For example, you might think a creature is in the last place you sensed it, but it was able to [[Sneak]] away. Or you might think a creature can't see you in the dark, but it has [[Darkvision]].
   
-You can attempt to avoid detection by using the [[Stealth]] skill to [[Avoid Notice]], [[Hide]], or [[Sneak]], or by using the [[Deception]] skill to [[Create a Diversion]].
+You can attempt to avoid detection by using the [[Stealth]] skill to [[Avoid Notice]], [[Hide]], or [[Sneak]], or by using the Deception skill to [[Create a Diversion]].
 
 ## Observed
 

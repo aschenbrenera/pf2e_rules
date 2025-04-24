@@ -1,10 +1,11 @@
 Tags: #condition #weaknesss
 
  **Description:** You're lying on the ground.
+
 ## Mechanical Rules
 
 - You take a –2 circumstance penalty to attack rolls  
-- The only move actions you can use while you're prone are Crawl and Stand.  
+- The only move actions you can use while you're prone are [[Crawl]] and [[Stand]].  
 	- Standing up ends the prone condition. 
 - Inherit [[Off-Guard]]]
 	- You take a –2 circumstance penalty to AC.

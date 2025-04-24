@@ -1,3 +1,0 @@
-Tags: #activity 
-
-[[Medicine]]

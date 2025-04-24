@@ -1,3 +1,7 @@
+---
+aliases:
+  - Restraining
+---
 Tags: #condition #capability
 
 **Description:** You're tied up and can barely move, or a creature has you pinned.

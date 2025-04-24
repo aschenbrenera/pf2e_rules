@@ -1,6 +1,7 @@
 Tags: #condition #weakness
 
 **Description:** You feel ill. Sickened always includes a value. 
+
 ## Mechanical Rules
 
 - You take a status penalty equal to your sickened value on all your checks and DCs.

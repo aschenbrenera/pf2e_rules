@@ -11,4 +11,4 @@ Tags: #ability #sensory #special_sense
 
 ## Creation Interaction
 
-- A [[Pet]] or [[Familiar]] may receive the 'Pet Feat': echolocation (precise) 20 feet
+- A pet or familiar may receive the 'Pet Feat': echolocation (precise) 20 feet

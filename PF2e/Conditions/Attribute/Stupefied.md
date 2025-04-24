@@ -1,4 +1,4 @@
-Tags: #condition #ability_condition
+Tags: #condition #ability_condition #sensory #social #mental 
 
 **Description:** Your thoughts and instincts are clouded. Stupefied always includes a value. 
 
@@ -10,8 +10,6 @@ Tags: #condition #ability_condition
 	- Spell attack modifiers
 	- Spell DCs
 	- Perception Checks
-	- Knowledge Skill Checks
-	- Social Skill Checks
-	- [[Crafting]] Checks
-	- [[Medicine]] Checks
-	- [[Survival]] Checks
+	- Intelligence Skill Checks ([[Arcana]], [[Crafting]], [[Lore]], [[Occultism]], [[Society]])
+	- Charisma Skill Checks ([[Deception]], [[Diplomacy]], [[Intimidation]], [[Performance]])
+	- Wisdom Skill Checks ([[Medicine]], [[Nature]], [[Religion]], [[Survival]])

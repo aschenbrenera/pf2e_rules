@@ -1,3 +1,19 @@
 Tags: #skill
 
-#TODO
+**Ability**: Wisdom
+
+You are adept at living in the wilderness, foraging for food and building shelter, and with training you discover the secrets of tracking and hiding your trail.
+
+## Survival Untrained Actions
+
+- [[Sense Direction]] - Exploration Activity
+- [[Subsist]]
+
+## Survival Trained Actions
+
+- [[Cover Tracks]] - Exploration Activity / ⬥
+- [[Track]] - Exploration Activity / ⬥
+
+## Gameplay Interactions
+
+- [[Stupefied]] affects Survival checks.

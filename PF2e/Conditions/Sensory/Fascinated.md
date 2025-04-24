@@ -1,4 +1,4 @@
-Tags: #condition #sensory
+Tags: #condition #sensory #mental 
 
 **Description:** You're compelled to focus your attention on something, distracting you from whatever else is going on around you. 
 

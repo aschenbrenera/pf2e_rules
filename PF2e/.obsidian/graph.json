@@ -8,65 +8,65 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#condition  ",
-      "color": {
-        "a": 1,
-        "rgb": 14783584
-      }
-    },
-    {
-      "query": "tag:#ability  ",
-      "color": {
-        "a": 1,
-        "rgb": 5424352
-      }
-    },
-    {
       "query": "tag:#action  ",
       "color": {
         "a": 1,
-        "rgb": 9244945
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#condition  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     },
     {
       "query": "tag:#activity  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16711693
       }
     },
     {
       "query": "tag:#skill  ",
       "color": {
         "a": 1,
-        "rgb": 16514816
+        "rgb": 5526240
       }
     },
     {
       "query": "tag:#environment  ",
       "color": {
         "a": 1,
-        "rgb": 28674
+        "rgb": 16741893
       }
     },
     {
-      "query": "tag:#core  ",
+      "query": "tag:#ability  ",
       "color": {
         "a": 1,
-        "rgb": 6297785
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#item ",
+      "color": {
+        "a": 1,
+        "rgb": 15034111
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
+  "collapse-display": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.19560139973958,
-  "lineSizeMultiplier": 1.497265625,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.203898111979167,
-  "repelStrength": 9.74365234375,
+  "centerStrength": 0.198201497395833,
+  "repelStrength": 11.0017903645833,
   "linkStrength": 1,
-  "linkDistance": 115,
-  "scale": 0.7502411961319153,
+  "linkDistance": 140,
+  "scale": 0.4729541418817621,
   "close": true
 }

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Grabbing
+---
 Tags: #condition #capability
 
 **Description:** You're held in place by another creature.

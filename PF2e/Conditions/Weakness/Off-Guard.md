@@ -1,6 +1,7 @@
 Tags: #condition #weakness
 
 **Description:** You're distracted or otherwise unable to focus your full attention on defense.
+
 ## Mechanical Rules
 
 - You take a –2 circumstance penalty to AC.

@@ -1,6 +1,7 @@
 Tags: #condition #capability
 
 **Description:** You are incapable of movement.
+
 ## Mechanical Rules
 
 - You can't use any actions that have the `move` trait.
