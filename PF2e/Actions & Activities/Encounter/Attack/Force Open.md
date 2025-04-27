@@ -14,8 +14,11 @@ Tags: #action #attack
 
 ### Sample Force Open Tasks
 
-**Untrained** fabric, flimsy glass  
-**Trained** ice, sturdy glass  
-**Expert** flimsy wooden door, wooden portcullis  
-**Master** sturdy wooden door, iron portcullis, metal bar  
-**Legendary** stone or iron door
+| **Proficiency Rank** | **DC** | Task                                           |
+| -------------------- | ------ | ---------------------------------------------- |
+| Untrained            | 10     | fabric, flimsy glass                           |
+| Trained              | 15     | ice, sturdy glass                              |
+| Expert               | 20     | flimsy wooden door, wooden portcullis          |
+| Master               | 30     | sturdy wooden door, iron portcullis, metal bar |
+| Legendary            | 40     | stone or iron door                             |
+

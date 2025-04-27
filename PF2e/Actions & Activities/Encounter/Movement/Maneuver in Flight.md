@@ -15,7 +15,11 @@ Tags: #action #movement
 
 ### Sample Maneuver in Flight Tasks
 
-**Trained** steep ascent or descent  
-**Expert** fly against the wind, hover midair  
-**Master** reverse direction  
-**Legendary** fly through gale force winds
+| **Proficiency Rank** | **DC** | Task                               |
+| -------------------- | ------ | ---------------------------------- |
+| Untrained            | 10     | N/A                                |
+| Trained              | 15     | steep ascent or descent            |
+| Expert               | 20     | fly against the wind, hover midair |
+| Master               | 30     | reverse direction                  |
+| Legendary            | 40     | fly through gale force winds       |
+

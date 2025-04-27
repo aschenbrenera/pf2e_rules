@@ -1,0 +1,9 @@
+Tags: #core
+
+| **Proficiency Rank** | **DC** |
+| -------------------- | ------ |
+| Untrained            | 10     |
+| Trained              | 15     |
+| Expert               | 20     |
+| Master               | 30     |
+| Legendary            | 40     |

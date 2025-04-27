@@ -23,9 +23,12 @@ Tags: #action #movement
 
 ### Sample Climb Tasks
 
-**Untrained:** ladder, steep slope, low-branched tree  
-**Trained:** rigging, rope, typical tree  
-**Expert:** wall with small handholds and footholds  
-**Master:** ceiling with handholds and footholds, rock wall  
-**Legendary:** smooth surface
+| **Proficiency Rank** | **DC** | Task                                            |
+| -------------------- | ------ | ----------------------------------------------- |
+| Untrained            | 10     | ladder, steep slope, low-branched tree          |
+| Trained              | 15     | rigging, rope, typical tree                     |
+| Expert               | 20     | wall with small handholds and footholds         |
+| Master               | 30     | ceiling with handholds and footholds, rock wall |
+| Legendary            | 40     |  smooth surface                                 |
+
 

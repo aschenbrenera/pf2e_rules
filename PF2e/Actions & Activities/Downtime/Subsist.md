@@ -27,8 +27,10 @@ Cost of living provides a total cost to covers room and board, dues, taxes, and 
 
 ### Sample Subsist Tasks
 
-**Untrained:** lush forest with calm weather or large city with plentiful resources  
-**Trained:** typical hillside or village  
-**Expert:** typical mountains or insular hamlet  
-**Master:** typical desert or city under siege  
-**Legendary:** barren wasteland or city of undead
+| **Proficiency Rank** | **DC** | Task                                                                 |
+| -------------------- | ------ | -------------------------------------------------------------------- |
+| Untrained            | 10     | lush forest with calm weather or large city with plentiful resources |
+| Trained              | 15     | typical hillside or village                                          |
+| Expert               | 20     | typical mountains or insular hamlet                                  |
+| Master               | 30     | typical desert or city under siege                                   |
+| Legendary            | 40     | barren wasteland or city of undead                                   |

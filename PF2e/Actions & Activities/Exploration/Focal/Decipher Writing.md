@@ -21,7 +21,12 @@ Tags: #activity #exploration #sensory
 
 ### Sample Decipher Writing Tasks
 
-**Trained** entry-level philosophy treatise  
-**Expert** complex code, such as a cipher  
-**Master** spymaster’s code or advanced research notes  
-**Legendary** esoteric planar text written in metaphor by an ancient celestial
+| **Proficiency Rank** | **DC** | Task                                                             |
+| -------------------- | ------ | ---------------------------------------------------------------- |
+| Untrained            | 10     | N/A                                                              |
+| Trained              | 15     | entry-level philosophy treatise                                  |
+| Expert               | 20     | complex code, such as a cipher                                   |
+| Master               | 30     | spymaster’s code or advanced research notes                      |
+| Legendary            | 40     | esoteric planar text written in metaphor by an ancient celestial |
+
+

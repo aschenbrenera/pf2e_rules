@@ -14,8 +14,11 @@ Tags: #activity #exploration #environment
 
 ### Sample Sense Direction Tasks
 
-**Untrained:** determine a cardinal direction using the sun  
-**Trained:** find an overgrown path in a forest  
-**Expert:** navigate a hedge maze  
-**Master:** navigate a byzantine labyrinth or relatively featureless desert  
-**Legendary:** navigate an ever-changing dream realm
+| **Proficiency Rank** | **DC** | Task                                                            |
+| -------------------- | ------ | --------------------------------------------------------------- |
+| Untrained            | 10     | determine a cardinal direction using the sun                    |
+| Trained              | 15     | find an overgrown path in a forest                              |
+| Expert               | 20     | navigate a hedge maze                                           |
+| Master               | 30     | navigate a byzantine labyrinth or relatively featureless desert |
+| Legendary            | 40     | navigate an ever-changing dream realm                           |
+

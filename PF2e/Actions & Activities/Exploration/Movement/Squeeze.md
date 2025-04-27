@@ -14,5 +14,11 @@ Tags: #activity #exploration #movement
 
 ### Sample Squeeze Tasks
 
-**Trained** space barely fitting your shoulders  
-**Master** space barely fitting your head
+| **Proficiency Rank** | **DC** | Task                                |
+| -------------------- | ------ | ----------------------------------- |
+| Untrained            | 10     | N/A                                 |
+| Trained              | 15     | space barely fitting your shoulders |
+| Expert               | 20     |                                     |
+| Master               | 30     | space barely fitting your head      |
+| Legendary            | 40     |                                     |
+

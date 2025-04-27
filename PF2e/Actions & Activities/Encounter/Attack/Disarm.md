@@ -1,4 +1,4 @@
-Tags: #action #attack #trained
+Tags: #action #attack
 
 **Actions:** [1] ⬥
 **Traits:** `ATTACK`

@@ -1,4 +1,4 @@
-Tags: #activity #exploration #environment #movement 
+Tags: #activity #exploration #environment #movement #action 
 
 **Traits:**  `EXPLORATION` `CONCENTRATE` `MOVE`
 **Skill:** [[Survival]]

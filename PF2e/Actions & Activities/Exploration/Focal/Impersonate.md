@@ -10,7 +10,7 @@ Tags: #activity #exploration #social #sensory
 	- **Success:** You trick the creature into thinking you're the person you're disguised as. You might have to attempt a new check if your behavior changes.  
 	- **Failure:** The creature can tell you're not who you claim to be.  
 	- **Critical Failure:** The creature can tell you're not who you claim to be, and it recognizes you if it would know you without a disguise.
-- In most cases, creatures have a chance to detect your deception only if they use the [[Seek]] action to attempt Perception checks against your [[Deception]] DC
+- In most cases, creatures have a chance to detect your deception only if they use the [[Seek]] action to attempt Perception checks against your [[Deception]] DC.
 - If you attempt to directly interact with someone while disguised, the GM rolls a secret Deception check for you against that creature's Perception DC instead.  
   
 

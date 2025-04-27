@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "39d96f915539784e",
+        "id": "0e05ce9879a5878d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d434355cfd2b72",
+            "id": "f2c716ba987b666a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core/Travel speed.md",
+                "file": "Core/Detecting Hazards and Traps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Travel speed"
+              "title": "Detecting Hazards and Traps"
             }
           },
           {
-            "id": "145f4f710b547331",
+            "id": "7268aef7449444a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actions & Activities/Exploration/Treat Wounds.md",
+                "file": "Core/Attitudes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Treat Wounds"
+              "title": "Attitudes"
+            }
+          },
+          {
+            "id": "fb052aab3bcb34da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core/Continual Exploration Activities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Continual Exploration Activities"
             }
           }
         ]
@@ -67,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subsist",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Travel speed.md",
+                "file": "Core/Detecting Hazards and Traps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Travel speed"
+              "title": "Backlinks for Detecting Hazards and Traps"
             }
           },
           {
@@ -181,44 +195,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d434355cfd2b72",
+  "active": "f2c716ba987b666a",
   "lastOpenFiles": [
-    "Core/Senses.md",
-    "Core/Line of Effect.md",
-    "Core/Identifying and Learning.md",
-    "Core/Hero Point.md",
-    "Core/Forced Movement.md",
-    "Core/Doubling and Halving Damage.md",
-    "Core/Detection.md",
-    "Core/Cover.md",
-    "Skills/Thievery.md",
-    "Skills/Survival.md",
-    "Skills/Stealth.md",
-    "Skills/Society.md",
-    "Skills/Religion.md",
-    "Skills/Performance.md",
-    "Skills/Occultism.md",
-    "Skills/Nature.md",
-    "Skills/Medicine.md",
-    "Skills/Lore.md",
+    "Core/Continual Exploration Activities.md",
+    "Actions & Activities/Exploration/Search.md",
+    "Core/Detecting Hazards and Traps.md",
+    "Actions & Activities/Exploration/Social/Make an Impression.md",
+    "Core/Damage Types.md",
+    "Items/Weapon Traits/Weapon Trait.md",
     "Skills/Intimidation.md",
-    "Skills/Diplomacy.md",
-    "Skills/Deception.md",
-    "Skills/Crafting.md",
-    "Skills/Athletics.md",
-    "Skills/Arcana.md",
-    "Skills/Acrobatics.md",
-    "Actions & Activities/Exploration/Borrow an Arcane Spell.md",
+    "Actions & Activities/Exploration/Social/Coerce.md",
+    "Actions & Activities/Exploration/Focal/Impersonate.md",
+    "Core/Attitudes.md",
+    "Actions & Activities/Encounter/Social/Request.md",
+    "Actions & Activities/Exploration/Movement",
+    "Actions & Activities/Exploration/Focal/Identify Magic.md",
+    "Actions & Activities/Exploration/Sensory",
+    "Actions & Activities/Exploration/Focal",
+    "Actions & Activities/Exploration/Social",
+    "Actions & Activities/Encounter/Social/Lie.md",
+    "Actions & Activities/Encounter/Social/Discover.md",
+    "Actions & Activities/Encounter/Reactions/Use Readied Action.md",
+    "Actions & Activities/Encounter/Reactions/Grab an Edge.md",
+    "Actions & Activities/Encounter/Reactions/Arrest a Fall.md",
+    "Actions & Activities/Encounter/Perception/Sense Motive.md",
+    "Actions & Activities/Encounter/Perception/Seek.md",
+    "Actions & Activities/Encounter/Perception/Point Out.md",
+    "Actions & Activities/Encounter/Perception/Avert Gaze.md",
+    "Actions & Activities/Encounter/Healing/Treat Poison.md",
+    "Actions & Activities/Encounter/Healing/Administer First Aid.md",
+    "Actions & Activities/Encounter/General/Sustain.md",
+    "Actions & Activities/Encounter/General/Release.md",
+    "Actions & Activities/Encounter/General/Recall Knowledge.md",
+    "Conditions/NPC",
+    "Items/Weapon Traits",
     "Actions & Activities/Encounter/Extra Combat",
     "Actions & Activities/Encounter/Defend",
     "Actions & Activities/Encounter/Stealth",
     "Actions & Activities/Encounter/Thievery",
-    "Actions & Activities/Encounter/Healing",
-    "Actions & Activities/Encounter/Social",
-    "Actions & Activities/Encounter/Other Basic Actions",
-    "Actions & Activities/Downtime",
-    "Actions & Activities/Exploration",
-    "Actions & Activities/Encounter",
     "Untitled.canvas"
   ]
 }

@@ -2,6 +2,7 @@
 aliases:
   - Observed
   - Unnoticed
+  - Concealment
 ---
 Tags: #core #sensory #stealth 
 
@@ -13,9 +14,13 @@ Typically, the GM tracks how well creatures detect each other, since neither par
   
 You can attempt to avoid detection by using the [[Stealth]] skill to [[Avoid Notice]], [[Hide]], or [[Sneak]], or by using the Deception skill to [[Create a Diversion]].
 
+## [[Concealed]]
+
+A [[Concealed]] creature is in mist, within [[Dim light]], or amid something else that obscures sight but isn’t a physical barrier. When you target a creature that’s concealed from you, you must attempt a DC 5 flat check before you roll to determine your effect. If you fail, you don’t affect the target. The concealed condition doesn’t change which of the main categories of detection apply. A creature in a light fog bank is still observed even though it’s concealed.
+
 ## Observed
 
-In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are observed. Observing requires a [[Senses|Precise Sense]] which for most creatures means sight. If you can’t observe the creature, it’s either [[Hidden]], [[Undetected]], or [[Detection|Unnoticed]] and you’ll need to factor in the targeting restrictions. Even if a creature is observed, it might still be [[Concealed]].
+In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are observed. Observing requires a [[Senses|Precise Sense]] which for most creatures means sight. If you can’t observe the creature, it’s either [[Hidden]], [[Undetected]], or Unnoticed and you’ll need to factor in the targeting restrictions. Even if a creature is observed, it might still be [[Concealed]].
 
 ## [[Hidden]]
 

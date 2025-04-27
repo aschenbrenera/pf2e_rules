@@ -21,11 +21,13 @@ Tags: #action #movement
   
 ### Sample Balance Tasks
 
-**Untrained:** tangled roots, uneven cobblestones  
-**Trained:** wooden beam  
-**Expert:** deep, loose gravel  
-**Master:** tightrope, smooth sheet of ice  
-**Legendary:** razor’s edge, chunks of floor falling in midair
+| **Proficiency Rank** | **DC** | Task                                            |
+| -------------------- | ------ | ----------------------------------------------- |
+| Untrained            | 10     | tangled roots, uneven cobblestones              |
+| Trained              | 15     | wooden beam                                     |
+| Expert               | 20     | deep, loose gravel                              |
+| Master               | 30     | tightrope, smooth sheet of ice                  |
+| Legendary            | 40     | razor’s edge, chunks of floor falling in midair |
 
 ## Gameplay Interactions
 

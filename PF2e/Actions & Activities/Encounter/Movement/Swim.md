@@ -21,8 +21,10 @@ Tags: #action #movement
 
 ### Sample Swim Tasks
 
-**Untrained** lake or other still water  
-**Trained** flowing water, like a river  
-**Expert** swiftly flowing river  
-**Master** stormy sea  
-**Legendary** maelstrom, waterfall
+| **Proficiency Rank** | **DC** | Task                        |
+| -------------------- | ------ | --------------------------- |
+| Untrained            | 10     | lake or other still water   |
+| Trained              | 15     | flowing water, like a river |
+| Expert               | 20     | swiftly flowing river       |
+| Master               | 30     | stormy sea                  |
+| Legendary            | 40     | maelstrom, waterfall        |
