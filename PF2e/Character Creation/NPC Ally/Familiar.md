@@ -5,6 +5,7 @@ Familiars are mystically bonded creatures tied to your magic. Most familiars wer
 ## Mechanical Rules
 
 - You gain the [[Pet]] general feat, except that your pet has special abilities.  
+	- Your pet's size is Tiny.
 	- Your pet’s level is equal to yours.
 	- Your pet has 5 Hit Points per level.
 	- Your pet has low-light vision.
@@ -18,7 +19,7 @@ Familiars are mystically bonded creatures tied to your magic. Most familiars wer
 - A familiar is different from a basic pet in the following ways.
 	- **Modifiers and AC:** For Perception, Acrobatics, and Stealth, you can have your familiar use your spellcasting attribute modifier + your level instead of 3 + your level if it’s higher. 
 	- **Communication:** Your familiar can communicate empathically with you as long as it’s within 1 mile of you, sharing emotions. It doesn’t understand or speak languages normally, but it can gain speech from a familiar ability. 
-	- **Abilities:**  Instead of choosing two abilities only when you gain your familiar as you do with a normal pet, you can choose the two abilities each day during your [[Rest|Daily Preparations]]. You can choose from familiar abilities and master abilities. You can choose the pet abilities from the feat as familiar abilities as well. You can’t swap out abilities that are innate to your familiar. For example, you couldn’t choose not to give a raven familiar flying.  
+	- **Abilities:**  Instead of choosing two abilities only when you gain your familiar as you do with a normal pet, you can choose the two abilities each day during your [[Rest|Daily Preparations]]. You can choose from [[Pet, Familiar, and Master Abilities]]. You can’t swap out abilities that are innate to your familiar. For example, you couldn’t choose not to give a raven familiar flying.  
 - When “companion” is used in a stat block, it refers to animal companions, familiars, and other types of companions.
   
 

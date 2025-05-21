@@ -24,6 +24,7 @@ Senses: [[Low-light vision]], [[Scent]] (Imprecise) 30 feet
 - [[Flint and Steel]]
 - [[Waterskin]]
 - [[Rope]]
+- [[Arrows]] x20
 
 ## Armor & Worn Items
 - Leather Armor

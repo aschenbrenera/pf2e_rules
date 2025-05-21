@@ -1,4 +1,4 @@
-Tags: #action #attack #ranger #feat #feat_action 
+Tags: #action #attack #ranger #feat
 
 Level: 1
 **Actions:** [1] ⬥

@@ -1,4 +1,10 @@
-#npc #minion
+---
+aliases:
+  - Pet Abilities
+  - Familiar Abilities
+  - Master Abilities
+---
+Tags: #npc #minion
 
 
 ## Pet Feat Abilities

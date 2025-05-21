@@ -8,12 +8,15 @@
 Speed: 30 feet
 Senses: [[Low-light vision]]
 
+Resistances: Cold 1 (Arctic Elf)
+
 ### Feats
 - [[Elven Weapon Familiarity]]
 - [[Steady Balance]]
 - [[Nimble Dodge]]
 
 ### Abilities
+- [[Arctic Elf]]
 - [[Rogue's Racket]] - Thief Racket
 - [[Surprise Attack]]
 - [[Sneak Attack]]

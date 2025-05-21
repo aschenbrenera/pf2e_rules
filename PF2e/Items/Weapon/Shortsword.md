@@ -6,12 +6,11 @@ These blades come in a variety of shapes and styles, but they are typically 2 fe
 **Bulk:** L
 **Hands:** 1
 
-**Traits:** `AGILE` `FINESSE` `VERSATILE S`
 **Category:** Martial
 **Type:** Melee
 **Group:** Sword
-
 **Damage** 1d6 P
+**Traits:** `AGILE` `FINESSE` `VERSATILE S`
 
 ## Gameplay Interactions
 

@@ -6,12 +6,11 @@ This small, bladed weapon is held in one hand and used to stab a creature in clo
 **Bulk:** L
 **Hands:** 1
 
-**Traits:** `AGILE` `FINESSE` `CONCEALABLE` `THROWN 10 FT.`
 **Category:** Simple
 **Type:** Melee
 **Group:** Knife
-
 **Damage** 1d4 P
+**Traits:** `AGILE` `FINESSE` `CONCEALABLE` `THROWN 10 FT.`
 
 ## Gameplay Interactions
 

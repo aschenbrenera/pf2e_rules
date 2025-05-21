@@ -1,4 +1,4 @@
-Tags: #action #class #rogue #feat #reaction #feat_action 
+Tags: #action #class #rogue #feat #reaction
 
 Level: 1
 **Actions:** [reaction] ⤾

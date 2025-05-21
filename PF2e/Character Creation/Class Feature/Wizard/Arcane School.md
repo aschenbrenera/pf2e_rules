@@ -15,7 +15,7 @@ You gain additional spells and spell slots from the curriculum taught at the sch
 	- You also gain an extra spell slot at each spell rank for which you have wizard spell slots. You can prepare only spells from your school's curriculum in these extra slots. Any spell listed in your curriculum of a suitable spell rank is eligible to be prepared in each of these extra slots, regardless of how you added the spell to your spellbook.  
 - **School Spells**:
 	- School spells are types of [[Focus Spells]].
-	- You learn the initial school spell, which is unique to your school. You can learn the advanced school spell with the [[Advanced School Spell]] feat.
+	- You learn the initial school spell, which is unique to your school. You can learn the advanced school spell with the [Advanced School Spell] feat.
 	- It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point.
 		- You can't prepare a focus spell in a spell slot or use your spell slots to cast focus spells.
 		- You can't spend your Focus Points to cast spells that aren't focus spells.

@@ -1,4 +1,4 @@
-Tags: #feat #action #feat_action
+Tags: #feat #action
 
 **Level:** 1
 **Traits:** `CATFOLK` `FORTUNE`

@@ -6,12 +6,11 @@ This long piece of wood can aid in walking and deliver a mighty blow.
 **Bulk:** 1
 **Hands:** 1
 
-**Traits:** `MONK` `TWO-HAND 1d8`
 **Category:** Simple
 **Type:** Melee
 **Group:** Club
-
 **Damage** 1d6 P
+**Traits:** `MONK` `TWO-HAND 1d8`
 
 ## Gameplay Interactions
 

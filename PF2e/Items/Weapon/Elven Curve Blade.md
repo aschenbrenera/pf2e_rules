@@ -6,12 +6,11 @@ Essentially a longer version of the scimitar, this traditional elven weapon has
 **Bulk:** 2
 **Hands:** 2
 
-**Traits:** `UNCOMMON` `ELF` `FINESSE` `FORCEFUL`
 **Category:** Martial
 **Type:** Melee
 **Group:** Sword
-
 **Damage** 1d8 S
+**Traits:** `UNCOMMON` `ELF` `FINESSE` `FORCEFUL`
 
 ## Gameplay Interactions
 
