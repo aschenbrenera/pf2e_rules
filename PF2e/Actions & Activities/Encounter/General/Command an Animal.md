@@ -17,7 +17,7 @@ Tags: #action
 	- **Failure:** The animal is hesitant or resistant, and it does nothing.  
 	- **Critical Failure:** The animal misbehaves or misunderstands, and it takes some other action determined by the GM.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Issuing commands to an animal doesn't always go smoothly.
 	- Most animals understand only the simplest instructions, so you might be able to instruct an animal to move to a certain square but not dictate a specific path to get there, or command it to attack a certain creature but not to make its attack nonlethal. The GM decides the specifics of the action the animal uses.  

@@ -24,6 +24,6 @@ Athletics allows you to perform deeds of physical prowess.
 
 - [[Escape]] ⬥
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Enfeebled]] affects Athletics checks.

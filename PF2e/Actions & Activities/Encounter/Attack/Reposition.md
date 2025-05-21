@@ -14,7 +14,7 @@ Tags: #action #attack #movement
 	- **Success:** You move the target up to 5 feet. It must remain within your reach during this movement, and you can't move it into or through obstacles.  
 	- **Critical Failure:** The target can move you up to 5 feet as though it successfully Repositioned you.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Forced movement doesn't trigger reactions that are triggered by movement. 
 - If forced movement would move you into a space you can't occupy—because objects are in the way or because you lack the movement type needed to reach it, for example—you stop moving in the last space you can occupy.  

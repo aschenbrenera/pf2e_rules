@@ -15,6 +15,6 @@ You know about the natural world, and you command and train animals and magical 
 - [[Identify Magic]] - Exploration Activity
 - [[Learn Spell]] - Exploration Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Nature checks.

@@ -6,4 +6,9 @@ Tags: #condition #weakness
 
 - You take a –1 status penalty to AC and saving throws.
 - You can't use exploration activities performed while traveling.
-- You recover from fatigue after a full night's rest.
+- You recover from fatigue after a full night's [[Rest]].
+
+## Inheritance Sources
+
+- Sleeping in armor.
+- If you go more than 16 hours without resting.

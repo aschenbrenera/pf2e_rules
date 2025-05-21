@@ -16,6 +16,6 @@ Use crafting to create and repair items or recall knowledge on specific topics.
 - [[Earn Income]]
 - [[Identify Alchemy]]
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Crafting checks.

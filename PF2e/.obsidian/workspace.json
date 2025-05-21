@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e05ce9879a5878d",
+        "id": "370adcbc227d9a38",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c716ba987b666a",
+            "id": "fc5910f7c7fe3c1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/Detecting Hazards and Traps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Detecting Hazards and Traps"
-            }
-          },
-          {
-            "id": "7268aef7449444a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/Attitudes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attitudes"
-            }
-          },
-          {
-            "id": "fb052aab3bcb34da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core/Continual Exploration Activities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Continual Exploration Activities"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -81,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 315.5
   },
   "right": {
     "id": "d31e3af40a664ccd",
@@ -122,8 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Detecting Hazards and Traps.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -132,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Detecting Hazards and Traps"
+              "title": "Backlinks"
             }
           },
           {
@@ -195,44 +163,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2c716ba987b666a",
+  "active": "cb121ce0e131aedf",
   "lastOpenFiles": [
-    "Core/Continual Exploration Activities.md",
-    "Actions & Activities/Exploration/Search.md",
-    "Core/Detecting Hazards and Traps.md",
-    "Actions & Activities/Exploration/Social/Make an Impression.md",
-    "Core/Damage Types.md",
-    "Items/Weapon Traits/Weapon Trait.md",
-    "Skills/Intimidation.md",
-    "Actions & Activities/Exploration/Social/Coerce.md",
-    "Actions & Activities/Exploration/Focal/Impersonate.md",
-    "Core/Attitudes.md",
-    "Actions & Activities/Encounter/Social/Request.md",
-    "Actions & Activities/Exploration/Movement",
-    "Actions & Activities/Exploration/Focal/Identify Magic.md",
-    "Actions & Activities/Exploration/Sensory",
-    "Actions & Activities/Exploration/Focal",
-    "Actions & Activities/Exploration/Social",
-    "Actions & Activities/Encounter/Social/Lie.md",
-    "Actions & Activities/Encounter/Social/Discover.md",
-    "Actions & Activities/Encounter/Reactions/Use Readied Action.md",
-    "Actions & Activities/Encounter/Reactions/Grab an Edge.md",
-    "Actions & Activities/Encounter/Reactions/Arrest a Fall.md",
-    "Actions & Activities/Encounter/Perception/Sense Motive.md",
-    "Actions & Activities/Encounter/Perception/Seek.md",
-    "Actions & Activities/Encounter/Perception/Point Out.md",
-    "Actions & Activities/Encounter/Perception/Avert Gaze.md",
-    "Actions & Activities/Encounter/Healing/Treat Poison.md",
-    "Actions & Activities/Encounter/Healing/Administer First Aid.md",
-    "Actions & Activities/Encounter/General/Sustain.md",
-    "Actions & Activities/Encounter/General/Release.md",
+    "Z Campaign Characters/Lumii.md",
+    "Character Creation/Class Feature/Rogue/Sneak Attack.md",
+    "Character Creation/Class Feature/Rogue/Surprise Attack.md",
+    "Character Creation/Class Feature/Rogue/Rogue's Racket.md",
     "Actions & Activities/Encounter/General/Recall Knowledge.md",
-    "Conditions/NPC",
-    "Items/Weapon Traits",
-    "Actions & Activities/Encounter/Extra Combat",
-    "Actions & Activities/Encounter/Defend",
-    "Actions & Activities/Encounter/Stealth",
-    "Actions & Activities/Encounter/Thievery",
-    "Untitled.canvas"
+    "Skills/Society.md",
+    "Character Creation/NPC Ally/Familiar.md",
+    "Z Campaign Characters/Thyra.md",
+    "Core/Sensory/Surprise Round Replaced.md",
+    "Character Creation/Class Feature/Ranger/Hunter's Edge.md",
+    "Character Creation/Class Feature/Rogue",
+    "Character Creation/Class Feature/Wizard/Spell Substitution.md",
+    "Character Creation/Class Feature/Wizard/Arcane Thesis.md",
+    "Feats/Skill Feats/Survey Wildlife.md",
+    "Feats/Skill Feats/Alchemical Crafting.md",
+    "Feats/Skill Feats/Experienced Professional.md",
+    "Feats/Skill Feats/Magical Crafting.md",
+    "Feats/Skill Feats/Steady Balance.md",
+    "Feats/Expeditious Search.md",
+    "Feats/Class Feats/Rogue/Nimble Dodge.md",
+    "Feats/Class Feats/Ranger/Hunted Shot.md",
+    "Feats/Ancestry Feats/Cat's Luck.md",
+    "Feats/Ancestry Feats/Elven Weapon Familiarity.md",
+    "Character Creation/Class Feature/Ranger/Hunt Prey.md",
+    "Character Creation/Class Feature/Wizard/Drain Bonded Item.md",
+    "Feats/Class Feats",
+    "Actions & Activities/Exploration/Feat",
+    "Character Creation/Heritage/Hunting Catfolk.md",
+    "Character Creation/Ancestry Feature/Land on your Feat.md",
+    "Feats/Class Feats/Rogue",
+    "Actions & Activities/Encounter/Ancestry",
+    "Actions & Activities/Encounter/Class/Wizard",
+    "Actions & Activities/Encounter/Spell",
+    "Actions & Activities/Exploration/Class/Wizard",
+    "Character Creation/Class Feature/Ranger",
+    "Actions & Activities/Exploration/Class",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }

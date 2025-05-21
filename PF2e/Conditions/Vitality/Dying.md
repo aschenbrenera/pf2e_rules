@@ -20,7 +20,7 @@ Tags: #condition #vitality
 	- **Failure:** Your dying value increases by 1. 
 	- **Critical Failure:** Your dying value increases by 2.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - When you're reduced to 0 Hit Points, you're knocked out with the following effects:
 	- Move your initiative position to directly before the current turn.

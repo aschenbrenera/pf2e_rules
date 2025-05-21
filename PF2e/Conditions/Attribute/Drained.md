@@ -7,4 +7,4 @@ Tags: #condition #ability_condition
 - You take a status penalty equal to your drained value on Constitution-based checks, such as Fortitude saves.
 - You also lose a number of Hit Points equal to your level (minimum 1) times the drained value, and your maximum Hit Points are reduced by the same amount. 
 	- Losing these Hit Points doesn't count as taking damage.  
-- Each time you get a full night's rest, your drained value decreases by 1. This increases your maximum Hit Points, but you don't immediately recover the lost Hit Points.
+- Each time you get a full night's [[Rest]], your drained value decreases by 1. This increases your maximum Hit Points, but you don't immediately recover the lost Hit Points.

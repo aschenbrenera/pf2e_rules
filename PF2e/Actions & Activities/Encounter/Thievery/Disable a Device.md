@@ -15,7 +15,7 @@ Tags: #action
 - A [[Thieves' toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.  
   
 
-## Gameplay Interactions
+## Gameplay Interaction
 
  - If you wear your thieves' toolkit, you can draw and replace it as part of the action that uses it.
   

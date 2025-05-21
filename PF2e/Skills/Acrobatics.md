@@ -20,6 +20,6 @@ Acrobatics measures your ability to perform tasks requiring coordination and gra
 - [[Escape]] ⬥
 - [[Grab an Edge]] ⤾
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Clumsy]] and [[Encumbered]] affect Acrobatics checks.

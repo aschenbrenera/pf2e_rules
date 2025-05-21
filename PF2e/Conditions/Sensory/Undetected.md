@@ -9,7 +9,7 @@ Tags: #condition #stealth #sensory
 - A creature you're undetected from is [[Off-Guard]] to you.  
 	- They take a –2 circumstance penalty to AC to you.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 -  Someone successfully using [[Seek]] against you while you're Undetected to them makes you [[Hidden]] to them instead.
 	- If you are Undetected because you are [[Invisible]], use those rules instead.

@@ -14,6 +14,6 @@ You know a great deal about ancient philosophies, esoteric lore, obscure mystici
 - [[Identify Magic]] - Exploration Activity
 - [[Learn Spell]] - Exploration Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Occultism checks.

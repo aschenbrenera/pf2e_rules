@@ -1,4 +1,4 @@
-Tags: #condition #weaknesss
+Tags: #condition #weakness
 
  **Description:** You're lying on the ground.
 
@@ -14,7 +14,7 @@ Tags: #condition #weaknesss
 	- +2 circumstance bonus to AC against ranged attacks (-2 Off Guard and +4 from Take Cover).
 	- +4 circumstance bonus to Reflex Saves and DCs.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - If you would be knocked prone while you're [[Climb|Climbing]], you [[Falling|Fall]] instead.
 - You can't be knocked prone when [[Swim|Swimming]].

@@ -16,6 +16,6 @@ You understand the people and systems that make civilization run, and you know t
 - [[Create Forgery]] - Downtime Activity
 - [[Examine Forgery]] - Exploration Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Society checks.

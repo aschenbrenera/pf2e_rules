@@ -10,6 +10,6 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 - [[Hide]] ⬥
 - [[Sneak]] ⬥
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Clumsy]], [[Encumbered]], and [[Cover]] affect Stealth checks.

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Assisted Recovery
+  - Persistent
 ---
 Tags: #condition #vitality 
 
@@ -12,7 +13,7 @@ Tags: #condition #vitality
 - All instances of persistent damage occur at once and act as a single trigger.  
 - After you take persistent damage, roll a DC 15 flat check to see if you recover. If you succeed, the persistent damage condition ends. 
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Persistent damage can be doubled or halved based on the results of the attack roll or saving throw.
 - Usually, if an effect negates the initial damage, it also negates the persistent damage, such as with a slashing weapon that also deals persistent bleed damage because it cut you. 

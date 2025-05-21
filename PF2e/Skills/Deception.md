@@ -14,7 +14,7 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 
 - [[Feint]] ⬥
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Deception checks.
 

@@ -16,6 +16,6 @@ Arcana measures how much you know about arcane magic and creatures.
 - [[Identify Magic]] - Exploration Activity
 - [[Learn Spell]] - Exploration Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Arcana checks.

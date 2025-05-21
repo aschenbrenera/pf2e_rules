@@ -15,6 +15,6 @@ The secrets of deities, dogma, faith, and the realms of divine creatures both su
 - [[Identify Magic]] - Exploration Activity
 - [[Learn Spell]] - Exploration Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Religion checks.

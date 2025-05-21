@@ -1,3 +1,0 @@
-Tags: #item #weapon
-
-#TODO

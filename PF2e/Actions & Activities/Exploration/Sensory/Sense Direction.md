@@ -3,6 +3,7 @@ Tags: #activity #exploration #environment
 **Traits:**  `EXPLORATION` `SECRET`
 **Skill:** [[Survival]]
 **Description:** Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild.
+
 ## Mechanical Rules
 
 - Typically, you attempt a [[Survival]] check only once per day, but some environments or changes might necessitate rolling more often.

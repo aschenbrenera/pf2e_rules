@@ -14,6 +14,6 @@ You are adept at living in the wilderness, foraging for food and building shelte
 - [[Cover Tracks]] - Exploration Activity / ⬥
 - [[Track]] - Exploration Activity / ⬥
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Survival checks.

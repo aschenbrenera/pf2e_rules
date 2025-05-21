@@ -16,7 +16,7 @@ Tags: #condition #stealth #sensory
 	- Someone you're hidden or undetected from is [[Off-Guard]] to you.  
 			- They take a –2 circumstance penalty to AC specific to you.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 -  By default an invisible creature is Undetected to someone except for the following:
 	- If you become invisible while observed by someone, you start out Hidden to them.

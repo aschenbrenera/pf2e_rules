@@ -3,13 +3,12 @@ Tags: #action #mental
 **Actions:** [1] ⬥
 **Traits**: `CONCENTRATE` `SECRET`
 **Skills**: [[Arcana]], [[Crafting]], [[Medicine]], [[Nature]],  [[Occultism]],  [[Religion]],  [[Society]], [[Lore]]
-**Description:** You attempt a skill check to try to remember a bit of knowledge regarding a topic related to that skill.
+**Description:** You attempt a skill check to try to remember a bit of knowledge regarding a topic related to that skill. This can be used to Identify a creature.
 
 ## Mechanical Rules
 
 - Example questions on creatures:  
-	- What is it?
-	- What is the creature's most notable offensive or defensive ability?
+	- What is the creature's most notable (offensive or defensive) ability?
 	- What are the creature's most notable vulnerabilities or strengths?   (Lowest of AC, Reflex, Fortitude, and Will, or a Weakness) (Resistances, Immunities)
 	- What are the creature's Traits, Languages, or Skills.
 - Topics by skill:
@@ -26,3 +25,7 @@ Tags: #action #mental
 	- **Success**: The GM answers your question truthfully.
 	- **Failure**: The GM gives you no information.
 	- **Critical Failure**: The GM answers your question falsely (or decides to give you no information, as on a failure).
+
+## Gameplay Tips:
+
+- For the purposes of abilities like mastermind rogue racket and ranger's monster hunter, a character is considered to have successfully identified a creature when they succeed or critically succeed at a Recall Knowledge check, regardless of what information they gain.

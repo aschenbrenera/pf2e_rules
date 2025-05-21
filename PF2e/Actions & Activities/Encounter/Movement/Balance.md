@@ -8,7 +8,7 @@ Tags: #action #movement
 **Actions:** [1] ⬥
 **Traits:** `MOVE`
 **Skill:** [[Acrobatics]]
-**Requirement:** You are in a square that contains a [narrow surface](https://2e.aonprd.com/Rules.aspx?ID=455), [uneven ground](https://2e.aonprd.com/Rules.aspx?ID=456), or another similar feature.
+**Requirement:** You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 
 ## Mechanical Rules
 
@@ -29,6 +29,6 @@ Tags: #action #movement
 | Master               | 30     | tightrope, smooth sheet of ice                  |
 | Legendary            | 40     | razor’s edge, chunks of floor falling in midair |
 
-## Gameplay Interactions
+## Gameplay Interaction
 
  - Each time you are hit by an attack or fail a save on a narrow surface or uneven ground, you must succeed at a Reflex save (with the same DC as the Acrobatics check to Balance) or fall (off or prone respectively).

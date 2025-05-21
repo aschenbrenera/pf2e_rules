@@ -12,7 +12,7 @@ Tags: #activity #exploration #social  #mental
 	- **Failure:** The target doesn't do what you say, and if they were not already unfriendly or hostile, they become unfriendly.  
 	- **Critical Failure:** The target refuses to comply, becomes hostile if they weren't already, and is temporarily immune to your Coercion for at least 1 week.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. 
 

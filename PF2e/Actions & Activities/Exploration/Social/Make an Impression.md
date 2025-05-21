@@ -14,7 +14,7 @@ Tags: #activity #exploration #social  #mental
 	- **Critical Failure:** The target's attitude toward you decreases by one step.
 - Any impression you make lasts for only the current social interaction unless the GM decides otherwise. 
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 Your influence on NPCs is measured with a set of attitudes that reflect how they view your character. These are only a brief summary of a creature's disposition. The GM will supply additional nuance based on the history and beliefs of the characters you're interacting with, and their attitudes can change in accordance with the story. 
 

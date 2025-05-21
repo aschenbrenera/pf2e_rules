@@ -10,7 +10,7 @@ You influence others through negotiation and flattery, or find out information t
 - [[Make an Impression]] - Exploration Activity
 - [[Request]] ⬥
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Diplomacy checks.
 

@@ -12,7 +12,7 @@ Tags: #environment #movement
 - You can't [[Step]] into Difficult terrain. 
 - Movement you make while jumping ignores the terrain you're jumping over.
 
-## Gameplay Interactions
+## Gameplay Interaction
 - [[Fly|Flying]] upward (straight up or diagonally) uses the rules for moving through [[Difficult terrain]].
 
 ## Ignore Difficult Terrain

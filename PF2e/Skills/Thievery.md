@@ -15,7 +15,7 @@ You are trained in a particular set of skills favored by thieves and miscreants.
 - [[Pick a Lock]] ⬥⬥
 
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Clumsy]] and [[Encumbered]] affect Thievery checks.
 - When tying up a creature your Thievery DC is used for [[Escape]] checks.

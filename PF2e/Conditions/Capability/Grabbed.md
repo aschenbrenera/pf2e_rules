@@ -14,6 +14,6 @@ Tags: #condition #capability
 - Inherit [[Immobilized]].
 	- You can't use any actions that have the move trait.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - To end the condition, you may be able to attempt to [[Escape]] or [[Force Open]] your bonds.  

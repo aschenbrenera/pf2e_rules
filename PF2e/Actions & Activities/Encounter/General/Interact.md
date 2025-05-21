@@ -14,7 +14,7 @@ Tags: #action #basic_action
 	- Detach a shield or other item from you using one hand.
 	- Open a door, or achieve a similar effect.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Swapping allows you to put away one item and draw another in the same action (such as putting away a dagger and drawing a mace).
 - To retrieve a stowed item (or put one away) from a backpack or similar container, you'll often need to Interact to open or close the backpack or container, before using another interact to move the object.

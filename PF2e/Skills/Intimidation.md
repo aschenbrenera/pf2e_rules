@@ -9,7 +9,7 @@ You bend others to your will using threats. Intimidation is typically a blunt in
 - [[Coerce]] - Exploration Activity
 - [[Demoralize]] ⬥
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Intimidation checks.
 

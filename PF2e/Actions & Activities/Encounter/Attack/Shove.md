@@ -14,7 +14,7 @@ Tags: #action #attack #movement
 	- **Success:** You push your target back 5 feet. You can Stride after it, but you must move the same distance and in the same direction.  
 	- **Critical Failure:** You lose your balance, fall, and land [[Prone]].
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Forced movement doesn't trigger reactions that are triggered by movement. 
 - If forced movement would move you into a space you can't occupy—because objects are in the way or because you lack the movement type needed to reach it, for example—you stop moving in the last space you can occupy.  

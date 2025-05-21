@@ -1,3 +1,8 @@
+---
+aliases:
+  - Improvised
+  - Shoddy
+---
 Tags: #core 
 
 Improvised or of dubious make, shoddy items are never available for purchase except for in the most desperate of communities. When available, a shoddy item usually costs half the Price of a standard item, though you can never sell one.  

@@ -21,7 +21,7 @@ Some performances require you to be more than just charismatic, and if you don't
 
 - [[Earn Income]] - Downtime Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Performance checks.
 

@@ -9,7 +9,7 @@ Tags: #condition #stealth #sensory
 - Someone you're hidden from is [[Off-Guard]] to you.  
 	- They take a –2 circumstance penalty to AC specific to you.
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Someone successfully using [[Seek]]  with a [[Senses|Precise Sense]] against you while you're [[Hidden]] to them makes you [[Detection|Observed]] to them instead.
 

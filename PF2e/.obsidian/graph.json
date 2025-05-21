@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "tag:#condition  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
       "query": "tag:#activity  ",
       "color": {
         "a": 1,
@@ -29,17 +22,10 @@
       }
     },
     {
-      "query": "tag:#skill  ",
+      "query": "tag:#condition  ",
       "color": {
         "a": 1,
-        "rgb": 5526240
-      }
-    },
-    {
-      "query": "tag:#environment  ",
-      "color": {
-        "a": 1,
-        "rgb": 16741893
+        "rgb": 14725458
       }
     },
     {
@@ -50,15 +36,43 @@
       }
     },
     {
+      "query": "tag:#skill  ",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "tag:#feat  ",
+      "color": {
+        "a": 1,
+        "rgb": 1341203
+      }
+    },
+    {
       "query": "tag:#item ",
       "color": {
         "a": 1,
         "rgb": 15034111
       }
+    },
+    {
+      "query": "tag:#environment  ",
+      "color": {
+        "a": 1,
+        "rgb": 16741893
+      }
+    },
+    {
+      "query": "tag:#feature  ",
+      "color": {
+        "a": 1,
+        "rgb": 6834696
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
@@ -67,6 +81,6 @@
   "repelStrength": 11.0017903645833,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.36722060185852146,
+  "scale": 0.3535560814423085,
   "close": true
 }

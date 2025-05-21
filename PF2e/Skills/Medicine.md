@@ -17,6 +17,6 @@ You can patch up wounds and help people recover from diseases and poisons.
 - [[Treat Poison]] ⬥
 - [[Treat Wounds]]  - Exploration Activity
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Stupefied]] affects Medicine checks.
