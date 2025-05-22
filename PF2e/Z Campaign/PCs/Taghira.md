@@ -21,6 +21,7 @@ Senses: [[Low-light vision]], [[Scent]] (Imprecise) 30 feet
 
 ### Gear
 - [[Backpack]]
+- [[Crowbar]]
 - [[Flint and Steel]]
 - [[Waterskin]]
 - [[Rope]]
@@ -29,6 +30,7 @@ Senses: [[Low-light vision]], [[Scent]] (Imprecise) 30 feet
 ## Armor & Worn Items
 - Leather Armor
 - Clothing, Ordinary
+- [[Taghira’s Fur Cloak]] - Invested
 
 ### Weapons
 - [[Shortbow]]

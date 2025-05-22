@@ -18,8 +18,7 @@ Speed: 25 feet
 - [[Arcane Bond]] - Staff
 
 ### Minions
-
-- (Wizard Familiar)
+- Wizard Familiar - Raven
 
 ### Gear
 - [[Backpack]]

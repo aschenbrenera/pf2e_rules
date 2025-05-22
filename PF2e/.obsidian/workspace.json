@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "370adcbc227d9a38",
+        "id": "e9e20d3c7e8be89e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5910f7c7fe3c1c",
+            "id": "2cd65196e98a4e44",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feat_action",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,45 +163,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1878fca5dfdedae0",
+  "active": "2cd65196e98a4e44",
   "lastOpenFiles": [
-    "Character Creation/Class Feature/Wizard/Arcane School.md",
-    "Feats/Class Feats/Rogue/Nimble Dodge.md",
-    "Feats/Class Feats/Ranger/Hunted Shot.md",
-    "Feats/Ancestry Feats/Cat's Luck.md",
-    "Abilities/Corporal/Incorporeal.md",
-    "Spells/Focus/Lay on Hands.md",
-    "Z Campaign Characters/Gunther.md",
-    "Items/Weapon/Longbow.md",
-    "Items/Critical Specialization/Bow Group.md",
-    "Items/Weapon/Shortbow.md",
-    "Items/Weapon/Staff.md",
-    "Items/Weapon/Shortsword.md",
-    "Items/Weapon/Greatsword.md",
-    "Items/Weapon/Elven Curve Blade.md",
-    "Items/Weapon/Dagger.md",
     "Items/Weapon/Corset Knife.md",
-    "Items/Weapon/Clan Dagger.md",
-    "Items/Weapon Traits/Agile.md",
-    "Items/Weapon Traits/Volley.md",
-    "Actions & Activities/Encounter/Extra Combat/Parry.md",
-    "Feats/General Feats/Shield Block.md",
-    "Character Creation/Class Feature/Champion/Devotion Spells.md",
-    "Feats/General Feats/Expeditious Search.md",
-    "Feats/General Feats",
+    "Z Campaign/PCs/Thyra.md",
+    "Spells/Focus/Lay on Hands.md",
     "Spells/Focus/Weapon Surge.md",
-    "Character Creation/Heritage/Forge-Blessed.md",
-    "Feats/Class Feats/Champion/Deity's Domain.md",
+    "Z Campaign/PCs/Gunther.md",
+    "Abilities/Sensory/Darkvision.md",
+    "Environment/Sensory/Dim light.md",
+    "Environment/Sensory/Darkness.md",
+    "Actions & Activities/Downtime/Retraining.md",
+    "Actions & Activities/Exploration/Social/Coerce.md",
+    "Core/Spells/Heightened Spells.md",
+    "Abilities/Corporal/Incorporeal.md",
+    "Actions & Activities/Exploration/General/Repeat Spell.md",
+    "Character Creation/NPC Ally/Pet.md",
+    "Character Creation/NPC Ally/Minion.md",
+    "Skills/Lore.md",
+    "Actions & Activities/Downtime/Long Term Rest.md",
+    "Actions & Activities/Exploration/General/Investigate.md",
+    "Actions & Activities/Exploration/Movement/Hustle.md",
+    "Actions & Activities/Exploration/General/Follow the Expert.md",
+    "Actions & Activities/Exploration/General/Scout.md",
+    "Actions & Activities/Exploration/Focal/Affix a Talisman.md",
+    "Actions & Activities/Exploration/General/Defend.md",
+    "Actions & Activities/Exploration/Sensory/Search.md",
+    "Actions & Activities/Exploration/Sensory/Avoid Notice.md",
+    "Actions & Activities/Exploration/Focal/Borrow an Arcane Spell.md",
+    "Z Campaign/Custom Items/Pasted image 20250521205258.png",
+    "Z Campaign/PCs",
+    "Z Campaign/Custom Items",
+    "Untitled.canvas",
+    "Actions & Activities/Exploration/General/Untitled",
+    "Actions & Activities/Exploration/General",
+    "Feats/General Feats",
     "Feats/Class Feats/Champion",
     "Core/Generic",
     "Character Creation/Class Feature/Champion",
     "Character Creation/Class Feature/Rogue",
     "Feats/Class Feats",
-    "Actions & Activities/Exploration/Feat",
-    "Feats/Class Feats/Rogue",
-    "Actions & Activities/Encounter/Ancestry",
-    "Actions & Activities/Encounter/Class/Wizard",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }

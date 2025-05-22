@@ -17,4 +17,4 @@ Level: 1
 
 ## Gameplay Interaction
 
-- Focus spells are automatically heightened to half your level rounded up, just like cantrips are.
+- [[Focus spells]] are automatically heightened to half your level rounded up, just like cantrips are.

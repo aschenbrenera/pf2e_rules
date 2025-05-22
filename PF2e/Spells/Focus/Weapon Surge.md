@@ -23,5 +23,5 @@ Level: 1
 
 ## Gameplay Interaction
 
-- Focus spells are automatically heightened to half your level rounded up, just like cantrips are.
+- [[Focus spells]] are automatically heightened to half your level rounded up, just like cantrips are.
 - This action gains your character's Sanctified trait (holy or unholy).

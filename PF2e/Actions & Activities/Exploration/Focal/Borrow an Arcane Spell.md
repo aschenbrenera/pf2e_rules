@@ -4,6 +4,7 @@
 **Skills:** [[Arcana]]
 **Requirements:** You are trained in Arcana.
 **Description:** If you're an arcane spellcaster who prepares spells, you can attempt to prepare a spell from someone else's arcane spellbook, arcane witch familiar, or the like.
+
 ## Mechanical Rules
 
 - The GM sets the DC for the check based on the spell's rank and rarity; it's typically a bit easier than to [[Learn Spell]]. Attempt a [[Arcana]] check.

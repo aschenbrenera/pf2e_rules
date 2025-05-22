@@ -1,4 +1,4 @@
-
+Tags: #core #spell 
 ## Reading Heighten in Spell block
 
 - **Heightened (+1):** This means for each level above the spell level you heighten the casting, you gain the benefit. 
