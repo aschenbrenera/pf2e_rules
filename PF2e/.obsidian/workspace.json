@@ -11,10 +11,14 @@
             "id": "2cd65196e98a4e44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Actions & Activities/Exploration/General/Follow the Expert.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Follow the Expert"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Actions & Activities/Exploration/General/Follow the Expert.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Follow the Expert"
             }
           },
           {
@@ -163,13 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cd65196e98a4e44",
+  "active": "1878fca5dfdedae0",
   "lastOpenFiles": [
-    "Items/Weapon/Corset Knife.md",
+    "Z Campaign/PCs/A Overview Stat Sheet.md",
+    "Z Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Z Campaign/PCs/Taghira.md",
+    "Character Creation/Heritage/Hunting Catfolk.md",
+    "Character Creation/Class Feature/Ranger/Hunt Prey.md",
+    "Feats/Ancestry Feats/Cat's Luck.md",
+    "Character Creation/Ancestry Feature/Land on your Feat.md",
     "Z Campaign/PCs/Thyra.md",
+    "Z Campaign/PCs/Lumii.md",
+    "Z Campaign/PCs/Gunther.md",
+    "Actions & Activities/Encounter/General/Recall Knowledge.md",
+    "Skills/Arcana.md",
+    "Items/Gear/Toolkits/Thieves' toolkit.md",
+    "Items/Weapon/Corset Knife.md",
     "Spells/Focus/Lay on Hands.md",
     "Spells/Focus/Weapon Surge.md",
-    "Z Campaign/PCs/Gunther.md",
     "Abilities/Sensory/Darkvision.md",
     "Environment/Sensory/Dim light.md",
     "Environment/Sensory/Darkness.md",
@@ -180,17 +195,6 @@
     "Actions & Activities/Exploration/General/Repeat Spell.md",
     "Character Creation/NPC Ally/Pet.md",
     "Character Creation/NPC Ally/Minion.md",
-    "Skills/Lore.md",
-    "Actions & Activities/Downtime/Long Term Rest.md",
-    "Actions & Activities/Exploration/General/Investigate.md",
-    "Actions & Activities/Exploration/Movement/Hustle.md",
-    "Actions & Activities/Exploration/General/Follow the Expert.md",
-    "Actions & Activities/Exploration/General/Scout.md",
-    "Actions & Activities/Exploration/Focal/Affix a Talisman.md",
-    "Actions & Activities/Exploration/General/Defend.md",
-    "Actions & Activities/Exploration/Sensory/Search.md",
-    "Actions & Activities/Exploration/Sensory/Avoid Notice.md",
-    "Actions & Activities/Exploration/Focal/Borrow an Arcane Spell.md",
     "Z Campaign/Custom Items/Pasted image 20250521205258.png",
     "Z Campaign/PCs",
     "Z Campaign/Custom Items",

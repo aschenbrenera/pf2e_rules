@@ -2,7 +2,7 @@
 **Class:** Rogue
 **Ancestry:** Elf
 **Heritage:** Arctic Elf
-**Background:** Dancer
+**Background:** Dancer (Acrobat)
 **Languages:** Common, Elven, Fey, Aklo
 
 Speed: 30 feet
@@ -26,7 +26,7 @@ Resistances: Cold 1 (Arctic Elf)
 - [[Flint and Steel]]
 - [[Waterskin]]
 - [[Rope]]
-- [[Thieves' toolkit]]
+- [[Thieves' toolkit]]  (Infiltrator?)
 - [[Torch]] (5)
 - Bedroll
 - Soap
