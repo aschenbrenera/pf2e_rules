@@ -1,5 +1,5 @@
 **Level:** 1
-**Class:** Champion - Gorum (Holy)
+**Class:** Champion - Torag (Holy)
 **Ancestry:** Dwarf
 **Heritage:** Forge-Blessed Dwarf - Torag
 **Background:** Returned
@@ -13,7 +13,7 @@
 **Deific Weapon:** Greatsword
 
 ### Feats
-- Reincarnation Feat (Legacy) - ?
+- Reincarnation Feat (Legacy) - Wisdom from Another Life (Additional Lore)
 - [[Deity's Domain]] - Zeal - [[Weapon Surge]]
 - [[Shield Block]]
 

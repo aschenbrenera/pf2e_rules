@@ -1,4 +1,4 @@
-Tags: #feat #activity #feat_activity #exploration 
+Tags: #feat #activity #exploration 
 
 **Level:** 1
 **Traits:** `GENERAL` `SKILL`

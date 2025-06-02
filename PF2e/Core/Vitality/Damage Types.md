@@ -10,7 +10,7 @@ aliases:
   - Bleed
   - Precision
 ---
-ags: #core #vitality 
+Tags: #core #vitality 
 
 ## Physical Damage
 

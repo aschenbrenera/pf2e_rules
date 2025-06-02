@@ -12,7 +12,7 @@ This immense two-handed sword is nearly as tall as its wielder. Its lower blade 
 **Damage** 1d12 S
 **Traits:** `VERSATILE P`
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Versatile]] P
 	- A versatile weapon can be used to deal a different type of damage than its listed type. This trait indicates the alternate damage type.

@@ -12,7 +12,7 @@ This small, bladed weapon is held in one hand and used to stab a creature in clo
 **Damage** 1d4 P
 **Traits:** `AGILE` `FINESSE` `CONCEALABLE` `THROWN 10 FT.`
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Agile]]
 	- The [[Multiple Attack Penalty]] you take with this weapon on the second attack on your turn is –4 instead of –5, and –8 instead of –10 on the third and subsequent attacks in the turn.

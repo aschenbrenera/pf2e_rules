@@ -12,7 +12,7 @@ This long piece of wood can aid in walking and deliver a mighty blow.
 **Damage** 1d6 P
 **Traits:** `MONK` `TWO-HAND 1d8`
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Two-Hand]] 1d8
 	-  This weapon can be wielded with two hands to change its weapon damage die to the indicated value.

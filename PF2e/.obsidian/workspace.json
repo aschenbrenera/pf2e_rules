@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9e20d3c7e8be89e",
+        "id": "c2ca9dc1e397670d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd65196e98a4e44",
+            "id": "588379be01092f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actions & Activities/Exploration/General/Follow the Expert.md",
+                "file": "Encounter Actions Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Follow the Expert"
+              "title": "Encounter Actions Index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "tag:#ability_condition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actions & Activities/Exploration/General/Follow the Expert.md",
+                "file": "Encounter Actions Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Follow the Expert"
+              "title": "Backlinks for Encounter Actions Index"
             }
           },
           {
@@ -167,34 +167,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1878fca5dfdedae0",
+  "active": "588379be01092f3b",
   "lastOpenFiles": [
-    "Z Campaign/PCs/A Overview Stat Sheet.md",
-    "Z Campaign/Custom Items/Taghira’s Fur Cloak.md",
-    "Z Campaign/PCs/Taghira.md",
-    "Character Creation/Heritage/Hunting Catfolk.md",
-    "Character Creation/Class Feature/Ranger/Hunt Prey.md",
-    "Feats/Ancestry Feats/Cat's Luck.md",
-    "Character Creation/Ancestry Feature/Land on your Feat.md",
-    "Z Campaign/PCs/Thyra.md",
-    "Z Campaign/PCs/Lumii.md",
-    "Z Campaign/PCs/Gunther.md",
-    "Actions & Activities/Encounter/General/Recall Knowledge.md",
-    "Skills/Arcana.md",
-    "Items/Gear/Toolkits/Thieves' toolkit.md",
-    "Items/Weapon/Corset Knife.md",
-    "Spells/Focus/Lay on Hands.md",
-    "Spells/Focus/Weapon Surge.md",
-    "Abilities/Sensory/Darkvision.md",
-    "Environment/Sensory/Dim light.md",
-    "Environment/Sensory/Darkness.md",
+    "Exploration Activity Index.md",
+    "Downtime Activity Index.md",
+    "Core/NPCs/Attitudes.md",
+    "Core/Sensory/Entering Initiative with Stealth.md",
+    "Actions & Activities/Exploration/Sensory/Avoid Notice.md",
+    "Weapon Traits Index.md",
+    "Feats/Skill Feats/Survey Wildlife.md",
+    "Conditions Index.md",
+    "Encounter Actions Index.md",
+    "Core/Movement/Forced Movement.md",
+    "Core/Generic/Basic Saving Throw.md",
+    "Conditions/Vitality/Dying.md",
+    "Conditions/Weakness/Prone.md",
+    "Conditions/Weakness/Off-Guard.md",
+    "Conditions/Mental/Confused.md",
+    "Conditions/Sensory/Concealed.md",
+    "Conditions/Attribute/Clumsy.md",
+    "Conditions/Sensory/Blinded.md",
+    "Actions & Activities/Downtime/Long Term Rest.md",
+    "Actions & Activities/Downtime/Create Forgery.md",
     "Actions & Activities/Downtime/Retraining.md",
-    "Actions & Activities/Exploration/Social/Coerce.md",
-    "Core/Spells/Heightened Spells.md",
-    "Abilities/Corporal/Incorporeal.md",
-    "Actions & Activities/Exploration/General/Repeat Spell.md",
-    "Character Creation/NPC Ally/Pet.md",
-    "Character Creation/NPC Ally/Minion.md",
+    "Core/Vitality/Doubling and Halving Damage.md",
+    "Core/Vitality/Damage Types.md",
+    "Core/Vitality/Afflictions.md",
+    "Actions & Activities/Exploration/Sensory/Cover Tracks.md",
+    "Skills/Survival.md",
+    "Spells/Cantrip",
     "Z Campaign/Custom Items/Pasted image 20250521205258.png",
     "Z Campaign/PCs",
     "Z Campaign/Custom Items",
@@ -206,7 +207,6 @@
     "Core/Generic",
     "Character Creation/Class Feature/Champion",
     "Character Creation/Class Feature/Rogue",
-    "Feats/Class Feats",
     "Untitled 1.canvas"
   ]
 }

@@ -15,7 +15,7 @@ When members on one or both sides of an impending battle are being stealthy, you
 	- Otherwise, the creature knows someone is around and may start moving about, using [[Seek]] or otherwise preparing to fight. 
 
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - Only Rogues have a feature called [[Surprise Attack]].
 	- On the first round of combat, if you roll [[Deception]] or [[Stealth]] for initiative, creatures that haven't acted are [[Off-Guard]] to you.

@@ -15,7 +15,7 @@ This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, ha
 **Reload:** 0  
 **Traits:** `DEADLY D10` `VOLLEY 30 FT`
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Deadly]] d10
 	- On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon’s damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. 

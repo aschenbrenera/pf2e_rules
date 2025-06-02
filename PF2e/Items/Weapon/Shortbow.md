@@ -16,7 +16,7 @@ This smaller bow is made of a single piece of wood and favored by skirmishers an
 **Traits:** `DEADLY D10`
 
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Deadly]] d10
 	- On a critical hit, the weapon adds a weapon damage die of the listed size. Roll this after doubling the weapon’s damage. This increases to two dice if the weapon has a _greater striking rune_ and three dice if the weapon has a _major striking rune_. 

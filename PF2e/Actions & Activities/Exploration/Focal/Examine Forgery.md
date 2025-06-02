@@ -2,6 +2,7 @@ Tags: #activity #exploration #sensory
 
 **Traits:**  `EXPLORATION` `CONCENTRATE` `SECRET` 
 **Skill:** [[Society]]
+**Requirements:** You are trained in Society.
 **Description:** A creature on the lookout for forgeries, even one who was fooled on a passive glance, can take time to closely examine a document to see if it's a forgery. They apply different techniques and analysis methods to look beyond the surface elements.
 ## Mechanical Rules
 

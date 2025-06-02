@@ -1,4 +1,4 @@
-Tags: #activity #exploration #sensory #stealth 
+Tags: #activity #exploration #exploration_tactic #sensory #stealth 
 
 **Traits:**  `EXPLORATION` `CONCENTRATE` `MOVE`
 **Description:** You cover your tracks.
@@ -6,7 +6,7 @@ Tags: #activity #exploration #sensory #stealth
 ## Mechanical Rules
 
 - Travel at half speed.
--  If you're Avoiding Notice at the start of an encounter, you usually roll a Stealth check instead of a Perception check both to determine your initiative and to see if the enemies notice you as described on [[Surprise Round Replaced|Stealth into Encounter]] (shown below).
+-  If you're Avoiding Notice at the start of an encounter, you usually roll a Stealth check instead of a Perception check both to determine your initiative and to see if the enemies notice you as described on [[Entering Initiative with Stealth|Stealth into Encounter]] (shown below).
 - You can not perform another activity with the `EXPLORATION` tag while using avoid notice.
   
 - (There is some debate on how the following rules are intended, this seems to be the most consistent tabletop method)

@@ -2,7 +2,7 @@
 
 **Traits:** `EXPLORATION` `CONCENTRATE`
 **Skills:** [[Arcana]], [[Nature]], [[Occultism]], [[Religion]]
-**Requirements** You have a spellcasting class feature, and the spell you want to learn is on your magical tradition's spell list.
+**Requirements** You have a spellcasting class feature, and the spell you want to learn is on your magical tradition's spell list. You are trained in the relevant skill.
 **Description:** You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll.
 ## Mechanical Rules
 

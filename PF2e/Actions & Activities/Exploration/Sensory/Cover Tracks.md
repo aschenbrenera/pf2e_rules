@@ -1,7 +1,8 @@
-Tags: #activity #exploration #environment #movement #action 
+Tags: #activity #exploration #exploration_tactic #environment #movement #action 
 
 **Traits:**  `EXPLORATION` `CONCENTRATE` `MOVE`
 **Skill:** [[Survival]]
+**Requirements:** You are trained in Survival.
 **Description:** You cover your tracks.
 
 ## Mechanical Rules

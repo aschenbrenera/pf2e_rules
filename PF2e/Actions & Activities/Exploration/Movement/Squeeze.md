@@ -1,4 +1,4 @@
-Tags: #activity #exploration #movement 
+Tags: #activity #exploration #exploration_tactic #movement 
 
 **Skill:** [[Acrobatics]]
 **Requirements:**  You are trained in Acrobatics.

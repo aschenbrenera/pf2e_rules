@@ -2,7 +2,7 @@ Tags: #activity #downtime
 
 **Traits:** `DOWNTIME` `SECRET`
 **Skill:** [[Society]]
-**Requirements:** You provide the proper writing materials for your forgery.
+**Requirements:** You provide the proper writing materials for your forgery. You are trained in Society.
 **Description**: You create a forged document, usually over the course of a day or a week.
 ## Mechanical Rules
 

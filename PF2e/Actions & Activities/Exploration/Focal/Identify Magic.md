@@ -1,6 +1,7 @@
 **Tags:** #activity #exploration #magic
 
 **Traits:** `EXPLORATION` `SECRET` `CONCENTRATE`
+**Requirements:** You are trained in the relevant skill.
 **Skills:** [[Arcana]], [[Nature]], [[Occultism]], [[Religion]]
 
 ## Mechanical Rules

@@ -1,4 +1,4 @@
-Tags: #activity #exploration 
+Tags: #activity #exploration #exploration_tactic 
 
 **Traits:**  `EXPLORATION` `CONCENTRATE`
 **Description:** You look meticulously for hidden doors, concealed hazards, and so on.
@@ -9,7 +9,7 @@ Tags: #activity #exploration
 	- If your searching speed is greater than 15 feet (150 feet per minute), you can't ensure you check everything before you walk into it ([[Detecting Hazards and Traps]]).
 	- If your searching speed is greater than 30 feet (300 feet per minute), you can't search thoroughly guaranteeing you checked everything.
 	- In locations with many objects to search, you have to stop and spend significantly longer to search thoroughly.
-	- The [[Expeditious Search]] feat increases these maximum Speeds. See Gameplay Interactions below.
+	- The [[Expeditious Search]] feat increases these maximum Speeds. See Gameplay Interaction below.
 - If you are searching an area that contains at least one [[Hidden]] door, creature, item, trap, or hazard, the GM will attempt a free secret Perception check. You notice hidden things in that area as determined by the result of your check as described in the [[Seek]] action.
 	- An object or creature you detect might remain hidden, rather than becoming [[Detection|Observed]], if you're using an [[Senses|Imprecise Sense]] sense or if an effect (such as [[Invisible|Invisibility]]) prevents the subject from being observed.  
 	- **Critical Success:** Any undetected or hidden creature you critically succeeded against becomes observed by you. You learn the location of objects in the area you critically succeeded against.  

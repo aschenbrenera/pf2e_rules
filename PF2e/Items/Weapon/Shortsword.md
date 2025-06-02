@@ -12,7 +12,7 @@ These blades come in a variety of shapes and styles, but they are typically 2 fe
 **Damage** 1d6 P
 **Traits:** `AGILE` `FINESSE` `VERSATILE S`
 
-## Gameplay Interactions
+## Gameplay Interaction
 
 - [[Agile]]
 	- The [[Multiple Attack Penalty]] you take with this weapon on the second attack on your turn is –4 instead of –5, and –8 instead of –10 on the third and subsequent attacks in the turn.

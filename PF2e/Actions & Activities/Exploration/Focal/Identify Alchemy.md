@@ -2,7 +2,7 @@
 
 **Traits:** `EXPLORATION` `SECRET` `CONCENTRATE`
 **Skills:** [[Crafting]]
-**Requirements:** You are holding or wearing an [[Alchemist's Toolkit]].
+**Requirements:** You are holding or wearing an [[Alchemist's Toolkit]]. You are trained in Crafting.
 
 ## Mechanical Rules
 

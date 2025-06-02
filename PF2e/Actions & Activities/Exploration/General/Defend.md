@@ -1,4 +1,4 @@
-Tags: #activity #exploration 
+Tags: #activity #exploration #exploration_tactic 
 
 **Traits:**  `EXPLORATION`
 **Description:** You move with your shield raised.

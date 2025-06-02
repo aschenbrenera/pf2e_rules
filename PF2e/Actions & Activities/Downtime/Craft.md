@@ -2,6 +2,7 @@ Tags: #activity #downtime
 
 **Traits:** `DOWNTIME`
 **Skills:** [[Crafting]]
+**Requirements:** You are trained in Crafting.
 **Description:** You can make an item from raw materials.
 ## Mechanical Rules
 
