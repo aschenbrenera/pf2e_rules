@@ -18,7 +18,7 @@ Speed: 25 feet
 - [[Arcane Bond]] - Staff
 
 ### Minions
-- Wizard Familiar - Raven
+- Wizard Familiar - Raven (Frodor)
 
 ### Gear
 - [[Backpack]]
@@ -27,6 +27,7 @@ Speed: 25 feet
 - [[Rope]]
 - [[Writing Set]]
 - [[Spellbook]]
+- [[Lantern]] (Bullseye)
 - [[Torch]] (5)
 - Bedroll
 - Soap

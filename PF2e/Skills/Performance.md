@@ -25,6 +25,7 @@ Some performances require you to be more than just charismatic, and if you don't
 
 - [[Stupefied]] affects Performance checks.
 
+## Skill Feats
 
-
+- [[Acrobatic Performer]] - Use Acrobatics to Perform.
   

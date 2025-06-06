@@ -19,3 +19,7 @@ Use crafting to create and repair items or recall knowledge on specific topics.
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Crafting checks.
+
+## Skill Feats
+
+- [[Alchemical Crafting]] - You can create alchemical items. 

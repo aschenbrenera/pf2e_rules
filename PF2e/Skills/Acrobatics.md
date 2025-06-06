@@ -12,7 +12,7 @@ Acrobatics measures your ability to perform tasks requiring coordination and gra
 ## Acrobatics Trained Actions
 
 - [[Maneuver in Flight]] ⬥
--  [[Squeeze]]  - Exploration Activity
+- [[Squeeze]]  - Exploration Activity
 
 ## Basic Actions that use Acrobatics
 
@@ -23,3 +23,7 @@ Acrobatics measures your ability to perform tasks requiring coordination and gra
 ## Gameplay Interaction
 
 - [[Clumsy]] and [[Encumbered]] affect Acrobatics checks.
+
+## Skill Feats
+
+- [[Acrobatic Performer]] - Use Acrobatics to Perform.

@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "588379be01092f3b",
+            "id": "a90599cb085d1d1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounter Actions Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encounter Actions Index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ability_condition",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounter Actions Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Encounter Actions Index"
+              "title": "Backlinks"
             }
           },
           {
@@ -167,46 +162,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "588379be01092f3b",
+  "active": "a90599cb085d1d1c",
   "lastOpenFiles": [
-    "Exploration Activity Index.md",
-    "Downtime Activity Index.md",
-    "Core/NPCs/Attitudes.md",
-    "Core/Sensory/Entering Initiative with Stealth.md",
-    "Actions & Activities/Exploration/Sensory/Avoid Notice.md",
-    "Weapon Traits Index.md",
-    "Feats/Skill Feats/Survey Wildlife.md",
-    "Conditions Index.md",
-    "Encounter Actions Index.md",
-    "Core/Movement/Forced Movement.md",
-    "Core/Generic/Basic Saving Throw.md",
-    "Conditions/Vitality/Dying.md",
-    "Conditions/Weakness/Prone.md",
-    "Conditions/Weakness/Off-Guard.md",
-    "Conditions/Mental/Confused.md",
-    "Conditions/Sensory/Concealed.md",
-    "Conditions/Attribute/Clumsy.md",
-    "Conditions/Sensory/Blinded.md",
-    "Actions & Activities/Downtime/Long Term Rest.md",
-    "Actions & Activities/Downtime/Create Forgery.md",
+    "Core/Generic/Continual Exploration Activities.md",
+    "Z Campaign/PCs/Gunther.md",
+    "Z Campaign/PCs/A Overview Stat Sheet.md",
+    "Z Campaign/PCs/Thyra.md",
+    "Actions & Activities/Exploration/Focal/Affix a Talisman.md",
     "Actions & Activities/Downtime/Retraining.md",
-    "Core/Vitality/Doubling and Halving Damage.md",
-    "Core/Vitality/Damage Types.md",
-    "Core/Vitality/Afflictions.md",
-    "Actions & Activities/Exploration/Sensory/Cover Tracks.md",
-    "Skills/Survival.md",
-    "Spells/Cantrip",
+    "Character Creation/NPC Ally/Pet.md",
+    "Character Creation/NPC Ally/Pet, Familiar, and Master Abilities.md",
+    "Items/Gear/Misc/Oil.md",
+    "Spells/1st Rank/Magic Armor.md",
+    "Golarion Lore/Locations/The Darklands.md",
+    "Trait Rules/Magical.md",
+    "Spells/Cantrip/Detect Magic.md",
+    "Spells/Focus/Lay on Hands.md",
+    "Spells/Focus/Weapon Surge.md",
+    "Spells/1st Rank",
+    "Untitled.md",
+    "Golarion Lore/Locations",
+    "Golarion Lore",
+    "Items/Gear/Tools Other/Lantern.md",
+    "Items/Gear/Misc/Spellbook.md",
+    "Z Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Items/Gear/Tools Other/Torch.md",
+    "Items/Consumables/Magical/Healing Potion.md",
+    "Items/Gear/Toolkits/Alchemist's Toolkit.md",
+    "Abilities/Corporal/Incorporeal.md",
+    "Items/Consumables/Magical",
+    "Items/Consumables/Alchemical",
+    "Items/Consumables/General",
+    "Items/Consumables",
+    "Trait Rules/Consumable.md",
+    "Actions & Activities/Downtime/Craft.md",
+    "Skills/Crafting.md",
+    "Core/Item",
+    "Indexes",
+    "Feats/Skill Feats/Archetype",
     "Z Campaign/Custom Items/Pasted image 20250521205258.png",
-    "Z Campaign/PCs",
-    "Z Campaign/Custom Items",
     "Untitled.canvas",
-    "Actions & Activities/Exploration/General/Untitled",
-    "Actions & Activities/Exploration/General",
-    "Feats/General Feats",
-    "Feats/Class Feats/Champion",
-    "Core/Generic",
-    "Character Creation/Class Feature/Champion",
-    "Character Creation/Class Feature/Rogue",
     "Untitled 1.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-Tags:** #item #worn_item #custom
+**Tags:** #item #worn_item #custom
 
 **Traits**: `INVESTED` `MAGICAL`
 

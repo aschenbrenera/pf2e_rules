@@ -19,3 +19,7 @@ Arcana measures how much you know about arcane magic and creatures.
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Arcana checks.
+
+## Skill Feats
+
+- [[Arcane Sense]] - Gain Detect Magic as an Innate Spell.

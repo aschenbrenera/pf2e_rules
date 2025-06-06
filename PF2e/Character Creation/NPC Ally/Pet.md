@@ -2,9 +2,7 @@ Tags: #npc #minion
 
 You have a loyal pet—a Tiny animal of a type you choose, such as a cat, bird, or rodent.
 
-#TODO
 ## Mechanical Rules
-
 
 - Your pet's size is Tiny.
 - Your pet’s level is equal to yours.

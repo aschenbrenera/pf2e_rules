@@ -25,7 +25,7 @@
       "query": "tag:#condition  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13673550
       }
     },
     {
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 6834696
       }
+    },
+    {
+      "query": "tag:#core  ",
+      "color": {
+        "a": 1,
+        "rgb": 16772930
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 11.0017903645833,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.5300884338443957,
+  "scale": 0.6738072143673395,
   "close": true
 }

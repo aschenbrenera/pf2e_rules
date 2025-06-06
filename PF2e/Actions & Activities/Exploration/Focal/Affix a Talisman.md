@@ -1,8 +1,9 @@
-**Tags:** #activity #exploration #item
+**Tags:** #activity #exploration 
 
 **Traits:** `EXPLORATION` `MANIPULATE`
 **Requirements:** You must use a [[Repair Toolkit]].
 
+#TODO
 ## Mechanical Rules
 
 - You spend 10 minutes affixing a [talisman](https://2e.aonprd.com/Traits.aspx?ID=155) to an item, placing the item on a stable surface and using the repair toolkit with both hands.
