@@ -22,4 +22,9 @@ Use crafting to create and repair items or recall knowledge on specific topics.
 
 ## Skill Feats
 
-- [[Alchemical Crafting]] - You can create alchemical items. 
+| Level | Feat                    | Req. Training | Short Desc.                           |
+| ----- | ----------------------- | ------------- | ------------------------------------- |
+| 1     | [[Alchemical Crafting]] | Trained       | Create alchemical items.              |
+| 1     | [[Crafter's Appraisal]] | Trained       | Use Crafting to identify magic items. |
+
+

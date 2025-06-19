@@ -2,7 +2,7 @@ Tags: #feat #sensory
 
 **Level:** 1
 **Traits:** `GENERAL` `SKILL`
-**Prerequisite:** trained in [[Acrobatics]]
+**Prerequisite:** Trained in [[Acrobatics]].
 **Description:** You can keep your balance easily, even in adverse conditions. 
 
 ## Mechanical Rules

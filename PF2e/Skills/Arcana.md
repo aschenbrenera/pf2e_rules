@@ -22,4 +22,6 @@ Arcana measures how much you know about arcane magic and creatures.
 
 ## Skill Feats
 
-- [[Arcane Sense]] - Gain Detect Magic as an Innate Spell.
+| Level | Feat             | Req. Training | Short Desc.                           |
+| ----- | ---------------- | ------------- | ------------------------------------- |
+| 1     | [[Arcane Sense]] | Trained       | Gain Detect Magic as an Innate Spell. |

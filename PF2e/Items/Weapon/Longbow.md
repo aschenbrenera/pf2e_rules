@@ -25,4 +25,4 @@ This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, ha
 	- Your attacks against targets that are at a distance within the range listed take a –2 penalty.
 - Critical Specialization - [[Bow Group]] (when granted by an ability)
 	- If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile.
-		- The target is [[Immobilized]] and must spend an Interact action to attempt a DC 10 [[Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is [[Incorporeal]], is liquid, or could otherwise escape without effort.
+		- The target is Immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is Incorporeal, is liquid, or could otherwise escape without effort.

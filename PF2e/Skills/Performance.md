@@ -27,5 +27,8 @@ Some performances require you to be more than just charismatic, and if you don't
 
 ## Skill Feats
 
-- [[Acrobatic Performer]] - Use Acrobatics to Perform.
-  
+| Level | Feat                        | Req. Training | Short Desc.                                |
+| ----- | --------------------------- | ------------- | ------------------------------------------ |
+| 1     | [[Fascinating Performance]] | Trained       | Fascinate an observer of your performance. |
+
+

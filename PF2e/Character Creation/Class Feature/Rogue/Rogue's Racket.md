@@ -34,4 +34,4 @@ Nothing beats the thrill of taking something that belongs to someone else, espec
 
 When you attack with a [[Finesse]] melee weapon or finesse melee unarmed attack, you can add your Dexterity modifier to damage rolls instead of your Strength modifier.  
   
-You are trained in [Thievery](https://2e.aonprd.com/Skills.aspx?ID=17).
+You are trained in [[Thievery]].

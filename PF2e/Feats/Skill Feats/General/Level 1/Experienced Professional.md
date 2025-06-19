@@ -2,7 +2,7 @@ Tags: #feat
 
 **Level:** 1
 **Traits:** `GENERAL` `SKILL`
-**Prerequisite:** trained in [[Lore]]
+**Prerequisite:** Trained in [[Lore]].
 **Description:** You carefully safeguard your professional endeavors to prevent disaster. 
 ## Mechanical Rules
 

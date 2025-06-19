@@ -19,3 +19,10 @@ You understand the people and systems that make civilization run, and you know t
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Society checks.
+
+## Skill Feats
+
+| Level | Feat               | Req. Training | Short Desc.                           |
+| ----- | ------------------ | ------------- | ------------------------------------- |
+| 1     | [[Courtly Graces]] | Trained       | Use society to help influence nobles. |
+

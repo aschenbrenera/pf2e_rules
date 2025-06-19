@@ -18,6 +18,8 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 
 - [[Stupefied]] affects Deception checks.
 
+## Skill Feats
 
-
-  
+| Level | Feat              | Req. Training | Short Desc.                         |
+| ----- | ----------------- | ------------- | ----------------------------------- |
+| 1     | [[Charming Liar]] | Trained       | Use Deception to influence someone. |

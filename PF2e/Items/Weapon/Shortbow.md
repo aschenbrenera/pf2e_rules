@@ -24,4 +24,4 @@ This smaller bow is made of a single piece of wood and favored by skirmishers an
 	- An ability that changes the size of the weapon’s normal damage dice doesn’t change the size of its deadly die.
 - Critical Specialization - [[Bow Group]] (when granted by an ability)
 	- If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile.
-		- The target is [[Immobilized]] and must spend an Interact action to attempt a DC 10 [[Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is [[Incorporeal]], is liquid, or could otherwise escape without effort.
+		- The target is Immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is Incorporeal, is liquid, or could otherwise escape without effort.

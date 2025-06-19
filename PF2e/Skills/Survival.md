@@ -17,3 +17,9 @@ You are adept at living in the wilderness, foraging for food and building shelte
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Survival checks.
+
+## Skill Feats
+
+| Level | Feat                | Req. Training | Short Desc.                                  |
+| ----- | ------------------- | ------------- | -------------------------------------------- |
+| 1     | [[Survey Wildlife]] | Trained       | Determine the presence of nearby creatures.  |

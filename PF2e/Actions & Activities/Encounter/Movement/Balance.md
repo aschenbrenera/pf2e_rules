@@ -32,3 +32,9 @@ Tags: #action #movement
 ## Gameplay Interaction
 
  - Each time you are hit by an attack or fail a save on a narrow surface or uneven ground, you must succeed at a Reflex save (with the same DC as the Acrobatics check to Balance) or fall (off or prone respectively).
+
+## Skill Feats
+
+| Level | Feat               | Req. Training      | Short Desc.                                  |
+| ----- | ------------------ | ------------------ | -------------------------------------------- |
+| 1     | [[Steady Balance]] | Trained Acrobatics | Maintain balance even in adverse conditions. |

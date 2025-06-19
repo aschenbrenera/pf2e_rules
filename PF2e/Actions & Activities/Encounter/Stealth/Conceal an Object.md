@@ -12,4 +12,10 @@ Tags: #action #sensory
 	- **Failure:** The searcher finds the object.
 - If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).  
 - You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture. In this case, characters [[Seek|Seeking]]] in an area compare their Perception check results to your Stealth DC to determine whether they find the object.  
-  
+
+## Skill Feats
+
+| Level | Feat                       | Req. Training    | Short Desc.                                |
+| ----- | -------------------------- | ---------------- | ------------------------------------------ |
+| 1     | [[Concealing Legerdemain]] | Trained Thievery | Use Thievery to conceal an object.         |
+| 1     | [[Experienced Smuggler]]   | Trained Stealth  | You are well suited to concealing objects. |

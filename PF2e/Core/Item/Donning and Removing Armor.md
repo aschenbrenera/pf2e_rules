@@ -3,6 +3,8 @@ aliases:
   - Don Armor
   - Remove Armor
 ---
+Tags: #core #item 
+
 Getting in and out of armor is time consuming.
 
 ## Mechanical Rules

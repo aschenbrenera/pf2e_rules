@@ -1,4 +1,4 @@
-**Tags:** #item
+Tags: #item
 
 **Bulk:** 1
 **Hands:** 1 or 2

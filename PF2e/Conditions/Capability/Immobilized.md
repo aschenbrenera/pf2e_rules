@@ -13,4 +13,5 @@ Tags: #condition #capability
 - [[Restrained]]
 
 ## Gameplay Interaction
+
 - To end the condition, you may be able to attempt to [[Escape]] or [[Force Open]] your bonds.  

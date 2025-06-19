@@ -31,4 +31,8 @@ Tags: #action #movement
 | Master               | 30     | ceiling with handholds and footholds, rock wall |
 | Legendary            | 40     |  smooth surface                                 |
 
+## Skill Feats
 
+| Level | Feat               | Req. Training     | Short Desc.             |
+| ----- | ------------------ | ----------------- | ----------------------- |
+| 1     | [[Combat Climber]] | Trained Athletics | Can fight as you climb. |

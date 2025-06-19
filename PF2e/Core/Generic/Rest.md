@@ -27,3 +27,8 @@ Just before setting out to explore, or after a night's rest, the PCs spend time 
 - [[Focus Spells|Focus Points]] and other abilities and items that reset during daily preparations refresh. This includes abilities that can be used only a certain number of times per day.
 - You don armor and equip weapons and other gear.
 - You [[Invest]] up to 10 worn magic items to gain their benefits for the day.
+
+
+## Gameplay Interaction
+
+- Each time you get a full night's rest, your [[Drained]] value decreases by 1.

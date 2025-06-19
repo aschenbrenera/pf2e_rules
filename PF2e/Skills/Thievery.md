@@ -19,3 +19,10 @@ You are trained in a particular set of skills favored by thieves and miscreants.
 
 - [[Clumsy]] and [[Encumbered]] affect Thievery checks.
 - When tying up a creature your Thievery DC is used for [[Escape]] checks.
+
+## Skill Feats
+
+| Level | Feat                       | Req. Training | Short Desc.                               |
+| ----- | -------------------------- | ------------- | ----------------------------------------- |
+| 1     | [[Concealing Legerdemain]] | Trained       | Use Thievery to conceal an object.        |
+| 1     | [[Dirty Trick]]            | Trained       | Use Thievery to apply Clumsy to a target. |

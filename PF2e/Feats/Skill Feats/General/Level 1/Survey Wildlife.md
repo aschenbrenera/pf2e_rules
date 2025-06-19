@@ -2,7 +2,7 @@ Tags: #feat #activity #exploration
 
 **Level:** 1
 **Traits:** `GENERAL` `SKILL`
-**Prerequisite:** trained in [[Survival]]
+**Prerequisite:** Trained in [[Survival]].
 **Description:** You can study details in the wilderness to determine the presence of nearby creatures. 
 ## Mechanical Rules
 

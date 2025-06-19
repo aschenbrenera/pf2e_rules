@@ -20,3 +20,10 @@ You can patch up wounds and help people recover from diseases and poisons.
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Medicine checks.
+
+## Skill Feats
+
+| Level | Feat                | Req. Training | Short Desc.                                                           |
+| ----- | ------------------- | ------------- | --------------------------------------------------------------------- |
+| 1     | [[Battle Medicine]] | Trained       | Patch up wounds, even in combat.                                      |
+| 1     | [[Forensic Acumen]] | Trained       | Better at examining a body to determine the cause of death or injury. |

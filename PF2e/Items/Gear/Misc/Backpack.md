@@ -1,4 +1,4 @@
-**Tags:** #item
+Tags: #item
 
 **Bulk:** -
 

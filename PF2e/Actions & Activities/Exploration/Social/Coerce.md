@@ -21,3 +21,12 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 - [[Indifferent]]: Doesn't care about you either way. (Most NPCs start out indifferent.)
 - [[Unfriendly]]: Dislikes you and doesn't want to help you.
 - [[Hostile]]: Actively works against you—and might attack you just because of their dislike.
+
+
+## Skill Feats
+
+| Level | Feat               | Req. Training        | Short Desc.                                            |
+| ----- | ------------------ | -------------------- | ------------------------------------------------------ |
+| 1     | [[Group Coercion]] | Trained Intimidation | Increase the number of targets you can coerce at once. |
+
+

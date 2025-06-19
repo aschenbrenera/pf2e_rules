@@ -23,3 +23,11 @@ Tags: #action
 | Expert               | 20     | audience of merchants or minor nobles            |
 | Master               | 30     | audience of high nobility or minor royalty       |
 | Legendary            | 40     | audience of major royalty or otherworldly beings |
+
+## Skill Feats
+
+| Level | Feat                        | Req. Training       | Short Desc.                                |
+| ----- | --------------------------- | ------------------- | ------------------------------------------ |
+| 1     | [[Acrobatic Performer]]     | Trained Acrobatics  | Use Acrobatics to Perform.                 |
+| 1     | [[Fascinating Performance]] | Trained Performance | Fascinate an observer of your performance. |
+|       |                             |                     |                                            |

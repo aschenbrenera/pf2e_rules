@@ -21,6 +21,7 @@ Tags: #feat #action
 	- If a fortune effect and a mis effect would apply to the same roll, the two cancel each other out, and you roll normally.
 
 ## Leads to
+
 - [Expanded Luck](https://2e.aonprd.com/Feats.aspx?ID=1259)
 - [Luck of the Clowder](https://2e.aonprd.com/Feats.aspx?ID=5559)
 - [Lucky Break](https://2e.aonprd.com/Feats.aspx?ID=5553)

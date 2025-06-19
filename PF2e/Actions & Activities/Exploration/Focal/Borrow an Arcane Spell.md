@@ -1,4 +1,4 @@
-**Tags:** #activity #exploration #magic
+Tags: #activity #exploration #magic
 
 **Traits:** `EXPLORATION` `CONCENTRATE`
 **Skills:** [[Arcana]]

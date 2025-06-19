@@ -17,3 +17,4 @@ Tags: #condition #capability
 ## Gameplay Interaction
 
 - To end the condition, you may be able to attempt to [[Escape]] or [[Force Open]] your bonds.  
+- Allows the creature applying this condition to you to attempt to [[Reposition]] you.

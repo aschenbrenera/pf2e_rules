@@ -20,3 +20,9 @@ Tags: #activity #exploration #social
 | Master               | 30     | well-guarded or esoteric information                                                |
 | Legendary            | 40     | information known only to an incredibly select few, or only to extraordinary beings |
 
+## Skill Feats
+
+| Level | Feat                 | Req. Training | Short Desc.                                               |
+| ----- | -------------------- | ------------- | --------------------------------------------------------- |
+| 1     | [[Hobnobber]]        | Trained       | Gather rumors quicker.                                    |
+

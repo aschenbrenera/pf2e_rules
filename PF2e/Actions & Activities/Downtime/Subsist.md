@@ -13,17 +13,10 @@ Tags: #activity #downtime
 	- **Failure:** You're exposed to the elements and don't get enough food, becoming fatigued until you attain sufficient food and shelter.  
 	- **Critical Failure:** You attract trouble, eat something you shouldn't, or otherwise worsen your situation. You take a –2 circumstance penalty to checks to Subsist for 1 week. You don't find any food at all; if you don't have any stored up, you're in danger of starving or dying of thirst if you continue failing.
 
+## Gameplay Interaction
 
-## Cost of Living
-
-Cost of living provides a total cost to covers room and board, dues, taxes, and other fees. You typically need to track and pay for your cost of living only during downtime.
-
-|**Standard of Living**|**Week**|**Month**|**Year**|
-|---|---|---|---|
-|Subsistence*|4 sp|2 gp|24 gp|
-|Comfortable|1 gp|4 gp|52 gp|
-|Fine|30 gp|130 gp|1,600 gp|
-|Extravagant|100 gp|430 gp|5,200 gp|
+- Players will need to regularly buy food or Subsist to avoid [[Starvation and Thirst]].
+- The [[Forager]] feat guarantees success and increases the number of additional creatures that receive the benefits.
 
 ### Sample Subsist Tasks
 

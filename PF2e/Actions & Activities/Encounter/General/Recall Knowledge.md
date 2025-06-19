@@ -29,3 +29,10 @@ Tags: #action #mental
 ## Gameplay Tips:
 
 - For the purposes of abilities like mastermind rogue racket and ranger's monster hunter, a character is considered to have successfully identified a creature when they succeed or critically succeed at a Recall Knowledge check, regardless of what information they gain.
+
+
+## Skill Feats
+
+| Level | Feat                | Req. Training    | Short Desc.                                                           |
+| ----- | ------------------- | ---------------- | --------------------------------------------------------------------- |
+| 1     | [[Forensic Acumen]] | Trained Medicine | Better at examining a body to determine the cause of death or injury. |

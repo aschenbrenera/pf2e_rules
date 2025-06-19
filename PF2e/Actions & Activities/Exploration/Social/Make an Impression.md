@@ -23,3 +23,12 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 - [[Indifferent]]: Doesn't care about you either way. (Most NPCs start out indifferent.)
 - [[Unfriendly]]: Dislikes you and doesn't want to help you.
 - [[Hostile]]: Actively works against you—and might attack you just because of their dislike.
+
+
+## Skill Feats
+
+| Level | Feat                 | Req. Training     | Short Desc.                                               |
+| ----- | -------------------- | ----------------- | --------------------------------------------------------- |
+| 1     | [[Charming Liar]]    | Trained Deception | Use Deception to influence someone.                       |
+| 1     | [[Courtly Graces]]   | Trained Society   | Use society to help influence nobles.                     |
+| 1     | [[Group Impression]] | Trained Diplomacy | Increase the number of targets you can influence at once. |

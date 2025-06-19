@@ -24,3 +24,10 @@ Level: Cantrip 1
 ## Gameplay Interaction
 
 - Cantrip spells are automatically heightened to half your level rounded up.
+
+
+## Skill Feats
+
+| Level | Feat             | Req. Training  | Short Desc.                           |
+| ----- | ---------------- | -------------- | ------------------------------------- |
+| 1     | [[Arcane Sense]] | Trained Arcana | Gain Detect Magic as an Innate Spell. |

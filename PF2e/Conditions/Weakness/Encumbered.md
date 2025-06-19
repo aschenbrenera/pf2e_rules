@@ -12,3 +12,7 @@ Tags: #condition #weakness
 		- Reflex saves,
 		- Ranged attack rolls
 		- Skill checks using [[Acrobatics]], [[Stealth]], and [[Thievery]]
+
+## Inheritance Sources
+
+- If you carry an amount of [[Carrying and Bulk|Bulk]] more than 5 plus your Strength modifier.

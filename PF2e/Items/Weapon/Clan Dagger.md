@@ -1,4 +1,4 @@
-**Tags:** #item #weapon 
+Tags: #item #weapon 
 
 This broad dagger is carried b ydwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
 

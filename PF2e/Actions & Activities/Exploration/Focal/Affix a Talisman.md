@@ -1,4 +1,4 @@
-**Tags:** #activity #exploration 
+Tags: #activity #exploration 
 
 **Traits:** `EXPLORATION` `MANIPULATE`
 **Requirements:** You must use a [[Repair Toolkit]].

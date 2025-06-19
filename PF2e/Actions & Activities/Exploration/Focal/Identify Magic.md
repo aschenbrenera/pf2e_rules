@@ -15,3 +15,11 @@
 		- **Success:** For an item or location, you get a sense of what it does and learn any means of activating it. For an ongoing effect (such as a spell with a duration), you learn the effect's name and what it does. You can't try again in hopes of getting a critical success.  
 		- **Failure:** You fail to identify the magic and can't try again for 1 day.  
 		- **Critical Failure:** You misidentify the magic as something else of the GM's choice.
+
+## Skill Feats
+
+| Level | Feat                    | Req. Training    | Short Desc.                           |
+| ----- | ----------------------- | ---------------- | ------------------------------------- |
+| 1     | [[Crafter's Appraisal]] | Trained Crafting | Use Crafting to identify magic items. |
+
+

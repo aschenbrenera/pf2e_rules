@@ -26,4 +26,8 @@ Acrobatics measures your ability to perform tasks requiring coordination and gra
 
 ## Skill Feats
 
-- [[Acrobatic Performer]] - Use Acrobatics to Perform.
+| Level | Feat                    | Req. Training | Short Desc.                                  |
+| ----- | ----------------------- | ------------- | -------------------------------------------- |
+| 1     | [[Acrobatic Performer]] | Trained       | Use Acrobatics to Perform.                   |
+| 1     | [[Cat Fall]]            | Trained       | Acrobatics allow you to cushion your falls.  |
+| 1     | [[Steady Balance]]      | Trained       | Maintain balance even in adverse conditions. |

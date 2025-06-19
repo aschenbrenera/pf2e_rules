@@ -27,3 +27,10 @@ Athletics allows you to perform deeds of physical prowess.
 ## Gameplay Interaction
 
 - [[Enfeebled]] affects Athletics checks.
+
+## Skill Feats
+
+| Level | Feat               | Req. Training | Short Desc.             |
+| ----- | ------------------ | ------------- | ----------------------- |
+| 1     | [[Combat Climber]] | Trained       | Can fight as you climb. |
+| 1     | [[Hefty Hauler]]   | Trained       | Increase bulk limits.   |
