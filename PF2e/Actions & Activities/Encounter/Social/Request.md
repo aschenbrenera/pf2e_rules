@@ -1,4 +1,4 @@
-Tags: #action #social #mental 
+Tags: #action #social
 
 **Actions:** [1] ⬥
 **Traits:** `AUDITORY` `CONCENTRATE` `LINGUISTIC` `MENTAL`

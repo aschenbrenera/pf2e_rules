@@ -30,5 +30,6 @@ Some performances require you to be more than just charismatic, and if you don't
 | Level | Feat                        | Req. Training | Short Desc.                                |
 | ----- | --------------------------- | ------------- | ------------------------------------------ |
 | 1     | [[Fascinating Performance]] | Trained       | Fascinate an observer of your performance. |
+| 1     | [[Impressive Performance]]  | Trained       | Use Performance to influence a crowd.      |
 
 

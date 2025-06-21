@@ -1,4 +1,4 @@
-Tags: #condition #cover #stealth 
+Tags: #condition #stealth 
 
 **Description:** Standard form of [[Cover]]
 

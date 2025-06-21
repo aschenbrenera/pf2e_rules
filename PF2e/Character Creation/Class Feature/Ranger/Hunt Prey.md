@@ -2,7 +2,7 @@
 aliases:
   - Prey
 ---
-Tags: #action #class #ranger
+Tags: #action #class #ranger #action_build 
 
 **Actions:** [1] ⬥
 **Traits:** `CONCENTRATE` `RANGER`

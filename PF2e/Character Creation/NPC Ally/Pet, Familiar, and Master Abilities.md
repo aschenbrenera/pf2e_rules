@@ -4,7 +4,7 @@ aliases:
   - Familiar Abilities
   - Master Abilities
 ---
-Tags: #npc #minion
+Tags: #core #npc #minion
 
 #TODO
 ## Pet Feat Abilities

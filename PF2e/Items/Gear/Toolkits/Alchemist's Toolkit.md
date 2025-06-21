@@ -3,7 +3,7 @@ Tags: #item
 **Bulk:** 1
 **Hands:** 1 or 2
 
-This mobile collection of vials and chemicals can be used for simple alchemical tasks.
+This mobile collection of vials and chemicals can be used for simple alchemical tasks. Tasks include; [[Identify Alchemy]].
 
 | **Level** | **Item**             | **Price** | **Item Modifier** |
 | --------- | -------------------- | --------- | ----------------- |

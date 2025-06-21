@@ -20,6 +20,8 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 
 ## Skill Feats
 
-| Level | Feat              | Req. Training | Short Desc.                         |
-| ----- | ----------------- | ------------- | ----------------------------------- |
-| 1     | [[Charming Liar]] | Trained       | Use Deception to influence someone. |
+| Level | Feat                  | Req. Training | Short Desc.                                        |
+| ----- | --------------------- | ------------- | -------------------------------------------------- |
+| 1     | [[Charming Liar]]     | Trained       | Use Deception to influence someone.                |
+| 1     | [[Lengthy Diversion]] | Trained       | Can extend your hidden duration after a diversion. |
+| 1     | [[Lie To Me]]         | Trained       | Use Deception to catch someone lying to you.       |

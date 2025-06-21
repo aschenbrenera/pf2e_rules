@@ -1,4 +1,4 @@
-Tags: #action #sensory #mental 
+Tags: #action #sensory
 
 **Actions:** [1] ⬥
 **Traits:** `MENTAL`

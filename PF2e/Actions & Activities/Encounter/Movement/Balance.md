@@ -14,7 +14,7 @@ Tags: #action #movement
 
 - You move across a narrow surface or uneven ground, attempting an [[Acrobatics]] check against its Balance DC.
 	- **Critical Success:** You move up to your Speed.  
-	- **Success:** You move up to your Speed, treating it as [[Difficult terrain]] (every 5 feet costs 10 feet of movement).  
+	- **Success:** You move up to your Speed, treating it as [[Difficult Terrain]] (every 5 feet costs 10 feet of movement).  
 	- **Failure:** You must remain stationary to keep your balance (wasting the action) or you [[Falling|Fall]]. If you fall, your turn ends.  
 	- **Critical Failure:** You fall and your turn ends.
 - You are [[Off-Guard]] while on a narrow surface or uneven ground.  

@@ -1,4 +1,4 @@
-Tags: #action #spell 
+Tags: #action #spell
 
 Level: 1
 **Actions:** [2] ⬥⬥

@@ -8,5 +8,9 @@ Your influence on NPCs is measured with a set of attitudes that reflect how they
 - [[Unfriendly]]: Dislikes you and doesn't want to help you.
 - [[Hostile]]: Actively works against you—and might attack you just because of their dislike.
 
-- No one can ever change the attitude of a player character with these skills.
-	- You can roleplay interactions with player characters, and even use [[Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
+The most common actions to change an NPC's attitude are:
+- [[Make an Impression]]
+- [[Coerce]]
+
+No one can ever change the attitude of a player character with these skills.
+- You can roleplay interactions with player characters, and even use [[Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.

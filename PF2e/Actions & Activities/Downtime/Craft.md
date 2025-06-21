@@ -1,4 +1,4 @@
-Tags: #activity #downtime
+Tags: #downtime_activity #creation
 
 **Traits:** `DOWNTIME`
 **Skills:** [[Crafting]]
@@ -19,4 +19,5 @@ Tags: #activity #downtime
 | Level | Feat                    | Req. Training    | Short Desc.              |
 | ----- | ----------------------- | ---------------- | ------------------------ |
 | 1     | [[Alchemical Crafting]] | Trained Crafting | Create alchemical items. |
+| 2     | [[Magical Crafting]]    | Expert Crafting  | Create magical items.    |
 

@@ -18,3 +18,14 @@ The secrets of deities, dogma, faith, and the realms of divine creatures both su
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Religion checks.
+
+## Skill Feats
+
+| Level | Feat                     | Req. Training | Short Desc.                                   |
+| ----- | ------------------------ | ------------- | --------------------------------------------- |
+| 1     | [[Quick Identification]] | Trained       | Identify Magic swiftly.                       |
+| 1     | [[Recognize Spell]]      | Trained       | Identify an unfamiliar spell as a reaction.   |
+| 1     | [[Trick Magic Item]]     | Trained       | Activate a magic item you otherwise couldn't. |
+| 7     | [[Quick Recognition]]    | Master        | Recognize Spell as a free action.             |
+
+

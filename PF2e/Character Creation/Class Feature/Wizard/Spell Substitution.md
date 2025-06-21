@@ -1,4 +1,4 @@
-Tags: #activity #exploration #class #wizard
+Tags: #exploration_activity #exploration_build #class #wizard
 
 **Feature:** [[Arcane Thesis]]
 **Description:** You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.  

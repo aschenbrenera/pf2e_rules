@@ -3,7 +3,7 @@ aliases:
   - Flight
   - Flying
 ---
-Tags: #action #movement #basic_action 
+Tags: #action #movement #basic_action #special_movement 
 
 **Actions:** [1] ⬥
 **Traits:** `MOVE` 
@@ -12,7 +12,7 @@ Tags: #action #movement #basic_action
 ## Mechanical Rules
 
 - You move through the air up to your fly Speed.
-- Moving upward (straight up or diagonally) uses the rules for moving through [[Difficult terrain]].
+- Moving upward (straight up or diagonally) uses the rules for moving through [[Difficult Terrain]].
 - You can move straight down 10 feet for every 5 feet of movement you spend.
 - If you Fly to the ground, you don't take [[Falling|Falling Damage]].
 - You can use an action to Fly 0 feet to hover in place.

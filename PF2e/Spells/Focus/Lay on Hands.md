@@ -1,4 +1,4 @@
-Tags: #action #champion #healing #spell #focus_spell 
+Tags: #action #champion #healing #spell #focus_spell #action_build 
 
 Level: 1
 **Actions:** [1] ⬥
@@ -17,4 +17,4 @@ Level: 1
 
 ## Gameplay Interaction
 
-- [[Focus spells]] are automatically heightened to half your level rounded up, just like cantrips are.
+- [[Focus Spells]] are automatically heightened to half your level rounded up, just like cantrips are.

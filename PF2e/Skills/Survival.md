@@ -20,6 +20,6 @@ You are adept at living in the wilderness, foraging for food and building shelte
 
 ## Skill Feats
 
-| Level | Feat                | Req. Training | Short Desc.                                  |
-| ----- | ------------------- | ------------- | -------------------------------------------- |
-| 1     | [[Survey Wildlife]] | Trained       | Determine the presence of nearby creatures.  |
+| Level | Feat                | Req. Training | Short Desc.                                 |
+| ----- | ------------------- | ------------- | ------------------------------------------- |
+| 1     | [[Survey Wildlife]] | Trained       | Determine the presence of nearby creatures. |

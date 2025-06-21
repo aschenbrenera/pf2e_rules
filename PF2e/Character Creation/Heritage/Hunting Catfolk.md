@@ -1,4 +1,4 @@
-Tags: #heritage
+Tags: #heritage #feature 
 
 **Prerequisite:** Catfolk
 **Description:** You come from a long line of skilled hunters and trackers and have a particularly keen sense of smell. 

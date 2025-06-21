@@ -13,6 +13,7 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 ## Gameplay Interaction
 
 - [[Clumsy]], [[Encumbered]], and [[Cover]] affect Stealth checks.
+- Stealth checks can be used for initiative when you [[Avoid Notice]].
 
 ## Skill Feats
 

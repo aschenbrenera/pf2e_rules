@@ -1,4 +1,4 @@
-Tags: #action #movement
+Tags: #action #movement #special_movement
 
 **Actions:** [1] ⬥
 **Traits:** `MOVE` 

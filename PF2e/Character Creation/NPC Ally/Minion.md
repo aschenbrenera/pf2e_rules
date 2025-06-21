@@ -1,4 +1,4 @@
-Tags: #npc #minion 
+Tags: #core #npc #minion 
 
 Minions are creatures that directly serve another creature. 
 ## Mechanical Rules

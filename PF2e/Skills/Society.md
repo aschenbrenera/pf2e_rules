@@ -22,7 +22,8 @@ You understand the people and systems that make civilization run, and you know t
 
 ## Skill Feats
 
-| Level | Feat               | Req. Training | Short Desc.                           |
-| ----- | ------------------ | ------------- | ------------------------------------- |
-| 1     | [[Courtly Graces]] | Trained       | Use society to help influence nobles. |
+| Level | Feat               | Req. Training | Short Desc.                                                               |
+| ----- | ------------------ | ------------- | ------------------------------------------------------------------------- |
+| 1     | [[Courtly Graces]] | Trained       | Use society to help influence nobles.                                     |
+| 1     | [[Streetwise]]     | Trained       | Use Society to Gather Information and faster in settlements you frequent. |
 

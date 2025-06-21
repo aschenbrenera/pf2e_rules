@@ -1,4 +1,3 @@
-
 ### Perception and Defenses
 
 | Character Name | Perception | AC  | Fort  | Reflex | Will  |

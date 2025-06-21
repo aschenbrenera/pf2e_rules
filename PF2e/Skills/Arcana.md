@@ -22,6 +22,10 @@ Arcana measures how much you know about arcane magic and creatures.
 
 ## Skill Feats
 
-| Level | Feat             | Req. Training | Short Desc.                           |
-| ----- | ---------------- | ------------- | ------------------------------------- |
-| 1     | [[Arcane Sense]] | Trained       | Gain Detect Magic as an Innate Spell. |
+| Level | Feat                     | Req. Training | Short Desc.                                   |
+| ----- | ------------------------ | ------------- | --------------------------------------------- |
+| 1     | [[Arcane Sense]]         | Trained       | Gain Detect Magic as an Innate Spell.         |
+| 1     | [[Quick Identification]] | Trained       | Identify Magic swiftly.                       |
+| 1     | [[Recognize Spell]]      | Trained       | Identify an unfamiliar spell as a reaction.   |
+| 1     | [[Trick Magic Item]]     | Trained       | Activate a magic item you otherwise couldn't. |
+| 7     | [[Quick Recognition]]    | Master        | Recognize Spell as a free action.             |

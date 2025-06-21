@@ -1,4 +1,4 @@
-Tags: #activity #downtime 
+Tags: #downtime_activity
 
 **Traits:** `DOWNTIME`
 

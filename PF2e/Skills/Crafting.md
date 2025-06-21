@@ -22,9 +22,12 @@ Use crafting to create and repair items or recall knowledge on specific topics.
 
 ## Skill Feats
 
-| Level | Feat                    | Req. Training | Short Desc.                           |
-| ----- | ----------------------- | ------------- | ------------------------------------- |
-| 1     | [[Alchemical Crafting]] | Trained       | Create alchemical items.              |
-| 1     | [[Crafter's Appraisal]] | Trained       | Use Crafting to identify magic items. |
+| Level | Feat                    | Req. Training | Short Desc.                                    |
+| ----- | ----------------------- | ------------- | ---------------------------------------------- |
+| 1     | [[Alchemical Crafting]] | Trained       | Create alchemical items.                       |
+| 1     | [[Crafter's Appraisal]] | Trained       | Use Crafting to identify magic items.          |
+| 1     | [[Improvise Tool]]      | Trained       | Repair without toolkit and gain tool formulas. |
+| 1     | [[Quick Repair]]        | Trained       | Repair items quickly.                          |
+| 2     | [[Magical Crafting]]    | Expert        | Create magical items.                          |
 
 

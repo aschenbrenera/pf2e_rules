@@ -1,8 +1,6 @@
-Tags: #activity #downtime
+Tags: #downtime_activity
 
  #TODO 
-
-
 
 
 ## Skill Feats

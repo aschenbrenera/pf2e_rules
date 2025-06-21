@@ -1,4 +1,4 @@
-Tags: #activity #downtime #healing
+Tags: #downtime_activity #healing #vitality 
 
 **Traits:** `DOWNTIME` `MANIPULATE`
 **Skill:** [[Medicine]]

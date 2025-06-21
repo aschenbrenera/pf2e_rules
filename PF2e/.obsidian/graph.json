@@ -11,70 +11,70 @@
       "query": "tag:#action  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14827633
       }
     },
     {
-      "query": "tag:#activity  ",
+      "query": "tag:#exploration_activity  ",
       "color": {
         "a": 1,
         "rgb": 16711693
       }
     },
     {
-      "query": "tag:#condition  ",
+      "query": "tag:#downtime_activity  ",
       "color": {
         "a": 1,
-        "rgb": 13673550
+        "rgb": 11730944
       }
     },
     {
-      "query": "tag:#ability  ",
+      "query": "tag:#condition  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16774922
       }
     },
     {
       "query": "tag:#skill  ",
       "color": {
         "a": 1,
-        "rgb": 5526240
+        "rgb": 16740111
       }
     },
     {
       "query": "tag:#feat  ",
       "color": {
         "a": 1,
-        "rgb": 1341203
-      }
-    },
-    {
-      "query": "tag:#item ",
-      "color": {
-        "a": 1,
-        "rgb": 15034111
-      }
-    },
-    {
-      "query": "tag:#environment  ",
-      "color": {
-        "a": 1,
-        "rgb": 16741893
+        "rgb": 6735103
       }
     },
     {
       "query": "tag:#feature  ",
       "color": {
         "a": 1,
-        "rgb": 6834696
+        "rgb": 3552255
+      }
+    },
+    {
+      "query": "tag:#ability  ",
+      "color": {
+        "a": 1,
+        "rgb": 8196564
+      }
+    },
+    {
+      "query": "tag:#item ",
+      "color": {
+        "a": 1,
+        "rgb": 16031709
       }
     },
     {
       "query": "tag:#core  ",
       "color": {
         "a": 1,
-        "rgb": 16772930
+        "rgb": 9726756
       }
     }
   ],
@@ -84,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.198201497395833,
-  "repelStrength": 11.0017903645833,
+  "centerStrength": 0.502766927083333,
+  "repelStrength": 10.5029296875,
   "linkStrength": 1,
-  "linkDistance": 140,
-  "scale": 0.34630001177955133,
+  "linkDistance": 130,
+  "scale": 0.3780990728812007,
   "close": true
 }

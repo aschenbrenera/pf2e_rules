@@ -1,4 +1,4 @@
-Tags: #activity #downtime
+Tags: #downtime_activity #vitality 
 
 **Traits:** `DOWNTIME`
 **Skills:** [[Society]], [[Survival]]
@@ -6,8 +6,8 @@ Tags: #activity #downtime
 ## Mechanical Rules
 
 - Unlike most downtime activities, you can Subsist after 8 hours or less of exploration, but if you do, you take a –5 penalty. 
+- You might need a minimum proficiency rank to Subsist in particularly strange environments.
 - The GM determines the DC based on the nature of the place where you're trying to Subsist Attempt a check with the relevant skill.
-	- You might need a minimum proficiency rank to Subsist in particularly strange environments.
 	-  **Critical Success:** You either provide a subsistence living for yourself and one additional creature, or you improve your own food and shelter, granting yourself a comfortable living.  
 	- **Success:** You find enough food and shelter with basic protection from the elements to provide you a subsistence living.  
 	- **Failure:** You're exposed to the elements and don't get enough food, becoming fatigued until you attain sufficient food and shelter.  
@@ -15,7 +15,8 @@ Tags: #activity #downtime
 
 ## Gameplay Interaction
 
-- Players will need to regularly buy food or Subsist to avoid [[Starvation and Thirst]].
+- Players will need to regularly eat and drink to avoid [[Starvation and Thirst]]. When they can’t, they’re fatigued until they do and will start taking damage.  Usually they avoid this buy buying food or using the Subsist activity.
+- If you go more than 16 hours without [[Rest]], you become fatigued (you can't recover from this fatigue until you rest at least 8 continuous hours).  
 - The [[Forager]] feat guarantees success and increases the number of additional creatures that receive the benefits.
 
 ### Sample Subsist Tasks

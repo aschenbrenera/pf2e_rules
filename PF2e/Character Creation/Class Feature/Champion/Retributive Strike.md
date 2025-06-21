@@ -1,4 +1,4 @@
-Tags: #action #attack #champion #reaction 
+Tags: #action #attack #champion #reaction #action_build 
 
 **Actions:** [reaction] ⤾
 **Trigger:** An enemy damages your ally, and both are in your champion’s aura.

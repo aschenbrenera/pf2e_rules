@@ -1,4 +1,4 @@
-Tags: #action #cover #basic_action #defensive 
+Tags: #action #basic_action #defensive 
 
 **Actions:** [1] ⬥
 **Requirements:** You are benefiting from [[Cover]] are near a feature that allows you to take cover, or are [[Prone]].

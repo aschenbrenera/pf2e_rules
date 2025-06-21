@@ -1,4 +1,4 @@
-Tags: #condition #cover
+Tags: #condition
 
 **Description:** Lesser form of [[Cover]]
 

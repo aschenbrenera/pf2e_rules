@@ -4,7 +4,7 @@ Depending on how the GM tracks movement, you move in feet or miles based on your
   
 The rates in the table assume traveling over flat and clear terrain at a determined pace, but one that’s not exhausting. 
 
-- Moving through [[Difficult terrain]] halves the listed movement rate. Greater difficult terrain reduces the distance traveled to one-third the listed amount. 
+- Moving through [[Difficult Terrain]] halves the listed movement rate. Greater difficult terrain reduces the distance traveled to one-third the listed amount. 
 - If the travel requires a skill check to accomplish, such as [[Climb|Climbing]] or [[Swim|Swimming]], the GM might call for a check once per hour using the result and the table above to determine your progress.
 
 ### Travel Speed

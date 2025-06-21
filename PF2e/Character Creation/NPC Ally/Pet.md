@@ -1,4 +1,4 @@
-Tags: #npc #minion
+Tags: #core #npc #minion
 
 You have a loyal pet—a Tiny animal of a type you choose, such as a cat, bird, or rodent.
 

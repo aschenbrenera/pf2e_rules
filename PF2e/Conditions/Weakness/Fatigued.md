@@ -12,3 +12,4 @@ Tags: #condition #weakness
 
 - Sleeping in armor.
 - If you go more than 16 hours without resting.
+- If you don't regularly consume food and water.

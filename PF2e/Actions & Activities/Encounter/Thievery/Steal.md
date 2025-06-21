@@ -15,3 +15,12 @@ Tags: #action
 - Attempt a [[Thievery]] check to determine if you successfully Steal the object. 
 	- **Success:** You steal the item without the bearer noticing, or an observer doesn't see you take or attempt to take the item. 
 	- **Failure:** The item's bearer notices your attempt before you can take the object, or an observer sees you take or attempt to take the item. The GM determines the response of any creature that notices your theft.
+
+
+## Skill Feats
+
+| Level | Feat                | Req. Training    | Short Desc.                                      |
+| ----- | ------------------- | ---------------- | ------------------------------------------------ |
+| 1     | [[Pickpocket]]      | Trained Thievery | Better at taking guarded objects.                |
+| 1     | [[Subtle Theft]]    | Trained Thievery | Better at taking items while avoiding detection. |
+| 15    | [[Legendary Thief]] | Legendary        | You can steal just about anything.               |

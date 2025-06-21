@@ -3,7 +3,7 @@ Tags: #feat
 **Level:** 1
 **Traits:** `GENERAL` `SKILL`
 **Prerequisite:** Trained in [[Diplomacy]].
-**Description:** You can spend your days hunting for bargains and reselling at a profit. You can also spend time specifically sniffing out a great bargain on an item
+**Description:** You can spend your days hunting for bargains and reselling at a profit. You can also spend time specifically sniffing out a great bargain on an item.
 ## Mechanical Rules
 
 - You can [[Earn Income]] using [[Diplomacy]].

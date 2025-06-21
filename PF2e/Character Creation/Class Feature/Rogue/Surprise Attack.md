@@ -5,4 +5,7 @@ Tags: #class #rogue  #feature
 ## Mechanical Rules
 
 - On the first round of combat, if you roll [[Deception]] or [[Stealth]] for initiative, creatures that haven't acted are [[Off-Guard]] to you.
-- 
+
+## Gameplay Interactoin
+
+- This feature can be activated by [[Avoid Notice]].

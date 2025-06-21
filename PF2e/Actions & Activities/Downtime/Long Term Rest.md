@@ -1,4 +1,4 @@
-Tags: #activity #downtime 
+Tags: #downtime_activity #vitality 
 
 **Description**: You can spend an entire day and night resting to recover
 

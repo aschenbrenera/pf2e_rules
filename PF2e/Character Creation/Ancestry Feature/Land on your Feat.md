@@ -1,4 +1,4 @@
-Tags: #ability #environment #ancestry
+Tags: #ability #ancestry_ability
 
 **Description:** Better at falling.
 

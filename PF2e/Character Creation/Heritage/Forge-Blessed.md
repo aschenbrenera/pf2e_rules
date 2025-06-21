@@ -1,4 +1,4 @@
-Tags: #heritage #legacy 
+Tags: #heritage #feature #legacy 
 
 **Prerequisite:** Dwarf
 **Description:** You are from a family in Highhelm that venerates a particular dwarven deity above all others. Your birth was blessed by your family's patron deity, granting you a fraction of their power. 

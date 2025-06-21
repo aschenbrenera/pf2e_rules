@@ -12,3 +12,9 @@ Tags: #action #attack
 	- **Critical Success:** The target falls, lands [[Prone]], and takes 1d6 bludgeoning damage.  
 	- **Success:** The target falls and lands prone.  
 	- **Critical Failure:** You lose your balance, fall, and land prone.
+
+## Skill Feats
+
+| Level | Feat               | Req. Training     | Short Desc.                                              |
+| ----- | ------------------ | ----------------- | -------------------------------------------------------- |
+| 1     | [[Titan Wrestler]] | Trained Athletics | Perform strength-based attacks against larger creatures. |

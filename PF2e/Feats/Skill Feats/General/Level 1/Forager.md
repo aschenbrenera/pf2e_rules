@@ -1,4 +1,4 @@
- Tags: #feat 
+ Tags: #feat #vitality 
 
 **Level:** 1
 **Traits:** `GENERAL` `SKILL`

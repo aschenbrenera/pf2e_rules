@@ -2,7 +2,7 @@
 aliases:
   - Burrowing
 ---
-Tags: #action #movement #basic_action 
+Tags: #action #movement #basic_action #special_movement
 
 **Actions:** [1] ⬥
 **Traits:** `MOVE` 

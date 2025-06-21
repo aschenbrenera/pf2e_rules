@@ -1,6 +1,6 @@
-Tags: #action #assassin 
+Tags: #action #assassin #action_build 
 
-**Actions:** [2] ⬥
+**Actions:** [2] ⬥⬥
 **Source:** [[Assassin Dedication]]
 **Requirements:** The creature you intend to mark is observed by you.
 **Description:** Mark a creature for Death.

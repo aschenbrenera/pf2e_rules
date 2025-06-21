@@ -5,7 +5,7 @@ Tags: #action
 **Description:** The casting of a spell can range from a simple word of magical might that creates a fleeting effect to a complex process taking hours to cast and producing a long-term impact. Spellcasting creates obvious sensory manifestations, such as bright lights, crackling sounds, and sharp smells from the gathering magic. Nearly all spells manifest a spell signature—a colorful, glowing ring of magical runes that appears in midair, typically around your hands, though what kind of spellcaster you are can affect this— academic wizards typically have neat and ordered spell signatures, while a druid's might be more organic and a cleric's might be inspired by their deity. How spellcasting looks can vary from one spellcasting tradition or class to another, or even from person to person. You have a great deal of freedom in flavoring your character's magic however you wish! 
 ## Mechanical Rules
 
-- Any spell qualifies as a Cast a Spell activity, and any characteristics of the spell use those of the specific spell you’re casting. 
+- Any spell qualifies as a 'Cast a Spell' activity, and any characteristics of the spell use those of the specific spell you’re casting. 
 	- Casting a spell uses up it's relevant resource if applicable (Spell Slot, Focus Point)
 - Casting a spell requires the caster to make gestures and utter incantations, so being unable to speak prevents spellcasting for most casters.
 -  Spellcasting creates obvious sensory manifestations that can be observed.

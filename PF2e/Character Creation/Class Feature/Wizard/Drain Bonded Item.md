@@ -1,4 +1,4 @@
-Tags: #action #class #wizard #free_action 
+Tags: #action #class #wizard #free_action #action_build 
 
 **Actions:** [free] ⟐
 **Traits:** `ARCANE` `WIZARD`
